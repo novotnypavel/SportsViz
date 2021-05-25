@@ -1,0 +1,77 @@
+Event_Id,Event_Name,,Event_Tag,Event_position,Event_Team,Event Sec,Sec_Before_Goal,X,Y,Match_Period,Player_Name,Player_Role,Player_Goals_Scored,Player_Role_Calculated
+263884242,Pass,Simple pass,Not accurate,1,Croatia,901.570004,178.451187,38,72,1H,Dejan Lovren,Defender,0,right CB
+263884245,Pass,Simple pass,Fairplay,1,France,941.077627,138.943564,39,11,1H,Antoine Griezmann,Forward,1,central MF
+263884245,Pass,Simple pass,Not accurate,1,France,941.077627,138.943564,39,11,1H,Antoine Griezmann,Forward,1,central MF
+263884247,Pass,Simple pass,Accurate,1,Croatia,941.755976,138.265215,33,82,1H,Dejan Lovren,Defender,0,right CB
+263884250,Pass,Simple pass,Accurate,1,Croatia,944.954029,135.067162,37,70,1H,Marcelo Brozovic,Midfielder,0,central MF
+263884252,Pass,Simple pass,Not accurate,1,Croatia,947.256715,132.764476,56,92,1H,Luka Modric,Midfielder,0,central MF-right FW
+263884246,Pass,Simple pass,Interception,1,France,949.308904,130.712287,29,2,1H,Lucas  Hernandez Pi,Defender,0,left MF
+263884246,Pass,Simple pass,Accurate,1,France,949.308904,130.712287,29,2,1H,Lucas  Hernandez Pi,Defender,0,left MF
+263884248,Pass,Simple pass,Accurate,1,France,950.383963,129.637228,26,14,1H,N'Golo Kante,Midfielder,0,left CB
+263884251,Pass,Simple pass,Accurate,1,France,951.381929,128.639262,33,5,1H,Blaise Matuidi,Midfielder,0,left MF
+263884253,Pass,Simple pass,Accurate,1,France,953.762795,126.258396,40,29,1H,Paul Pogba,Midfielder,1,right CB
+263884254,Pass,Smart pass,Not accurate,1,France,956.591248,123.429943,44,81,1H,Kylian Mbappe Lottin,Forward,1,right FW
+263884256,Others on the ball,Touch,Interception,1,Croatia,956.726025,123.295166,57,10,1H,Ivan Strinic,Defender,0,left MF
+263884257,Pass,Simple pass,Accurate,1,France,959.697459,120.323732,32,74,1H,Kylian Mbappe Lottin,Forward,1,right FW
+263884258,Pass,Simple pass,Accurate,1,France,961.640946,118.380245,25,65,1H,Raphael Varane,Defender,0,right CB
+263884260,Pass,Simple pass,Accurate,1,France,964.733283,115.287908,35,26,1H,N'Golo Kante,Midfielder,0,left CB
+263884261,Pass,Simple pass,Accurate,1,France,965.886297,114.134894,44,28,1H,Blaise Matuidi,Midfielder,0,left MF
+263884262,Pass,High pass,Through,1,France,968.252016,111.769175,36,23,1H,N'Golo Kante,Midfielder,0,left CB
+263884262,Pass,High pass,Not accurate,1,France,968.252016,111.769175,36,23,1H,N'Golo Kante,Midfielder,0,left CB
+263884259,Pass,Head pass,Not accurate,1,Croatia,971.130122,108.891069,20,36,1H,Ivan Strinic,Defender,0,left MF
+263884263,Others on the ball,Touch,,1,France,973.052456,106.968735,72,64,1H,Olivier Giroud,Forward,0,central FW
+263884356,Duel,Ground attacking duel,Free space left,1,France,975.737685,104.283506,81,91,1H,Olivier Giroud,Forward,0,central FW
+263884356,Duel,Ground attacking duel,Lost,1,France,975.737685,104.283506,81,91,1H,Olivier Giroud,Forward,0,central FW
+263884356,Duel,Ground attacking duel,Not accurate,1,France,975.737685,104.283506,81,91,1H,Olivier Giroud,Forward,0,central FW
+263885684,Duel,Ground defending duel,Free space right,1,Croatia,975.737685,104.283506,19,9,1H,Ivan Rakitic,Midfielder,0,left FW
+263885684,Duel,Ground defending duel,Sliding tackle,1,Croatia,975.737685,104.283506,19,9,1H,Ivan Rakitic,Midfielder,0,left FW
+263885684,Duel,Ground defending duel,Won,1,Croatia,975.737685,104.283506,19,9,1H,Ivan Rakitic,Midfielder,0,left FW
+263885684,Duel,Ground defending duel,Accurate,1,Croatia,975.737685,104.283506,19,9,1H,Ivan Rakitic,Midfielder,0,left FW
+263884264,Pass,Simple pass,Accurate,1,Croatia,979.598711,100.42248,19,13,1H,Ante Rebic,Forward,0,central FW
+263884363,Duel,Ground defending duel,Take on left,1,France,980.872358,99.148833,78,94,1H,Olivier Giroud,Forward,0,central FW
+263884363,Duel,Ground defending duel,Won,1,France,980.872358,99.148833,78,94,1H,Olivier Giroud,Forward,0,central FW
+263884363,Duel,Ground defending duel,Accurate,1,France,980.872358,99.148833,78,94,1H,Olivier Giroud,Forward,0,central FW
+263885685,Duel,Ground attacking duel,Take on right,1,Croatia,980.872358,99.148833,22,6,1H,Ivan Rakitic,Midfielder,0,left FW
+263885685,Duel,Ground attacking duel,Lost,1,Croatia,980.872358,99.148833,22,6,1H,Ivan Rakitic,Midfielder,0,left FW
+263885685,Duel,Ground attacking duel,Not accurate,1,Croatia,980.872358,99.148833,22,6,1H,Ivan Rakitic,Midfielder,0,left FW
+263884265,Pass,Simple pass,Accurate,1,France,982.871285,97.149906,74,92,1H,Olivier Giroud,Forward,0,central FW
+263884266,Pass,Simple pass,Accurate,1,France,986.924213,93.096978,45,67,1H,Raphael Varane,Defender,0,right CB
+263884267,Pass,High pass,Accurate,1,France,991.7986,88.222591,62,6,1H,Lucas  Hernandez Pi,Defender,0,left MF
+263884367,Duel,Air duel,Won,1,France,994.128047,85.893144,82,55,1H,Olivier Giroud,Forward,0,central FW
+263884367,Duel,Air duel,Accurate,1,France,994.128047,85.893144,82,55,1H,Olivier Giroud,Forward,0,central FW
+263885686,Duel,Air duel,Lost,1,Croatia,994.128047,85.893144,18,45,1H,Domagoj Vida,Defender,0,left CB
+263885686,Duel,Air duel,Not accurate,1,Croatia,994.128047,85.893144,18,45,1H,Domagoj Vida,Defender,0,left CB
+263884369,Duel,Air duel,Won,1,France,995.965631,84.05556,77,60,1H,Antoine Griezmann,Forward,1,central MF
+263884369,Duel,Air duel,Accurate,1,France,995.965631,84.05556,77,60,1H,Antoine Griezmann,Forward,1,central MF
+263885687,Duel,Air duel,Lost,1,Croatia,995.965631,84.05556,23,40,1H,Ivan Rakitic,Midfielder,0,left FW
+263885687,Duel,Air duel,Not accurate,1,Croatia,995.965631,84.05556,23,40,1H,Ivan Rakitic,Midfielder,0,left FW
+263884370,Duel,Ground attacking duel,Free space right,1,France,1000.15076,79.87043,92,83,1H,Kylian Mbappe Lottin,Forward,1,right FW
+263884370,Duel,Ground attacking duel,Won,1,France,1000.15076,79.87043,92,83,1H,Kylian Mbappe Lottin,Forward,1,right FW
+263884370,Duel,Ground attacking duel,Accurate,1,France,1000.15076,79.87043,92,83,1H,Kylian Mbappe Lottin,Forward,1,right FW
+263884449,Duel,Ground defending duel,Free space left,1,Croatia,1000.15076,79.87043,8,17,1H,Ivan Strinic,Defender,0,left MF
+263884449,Duel,Ground defending duel,Lost,1,Croatia,1000.15076,79.87043,8,17,1H,Ivan Strinic,Defender,0,left MF
+263884449,Duel,Ground defending duel,Not accurate,1,Croatia,1000.15076,79.87043,8,17,1H,Ivan Strinic,Defender,0,left MF
+263884270,Pass,Smart pass,Not accurate,1,France,1002.38253,77.638662,96,72,1H,Kylian Mbappe Lottin,Forward,1,right FW
+263884268,Others on the ball,Touch,Interception,1,Croatia,1002.47718,77.544007,9,30,1H,Ivan Rakitic,Midfielder,0,left FW
+263884269,Others on the ball,Clearance,Accurate,1,Croatia,1004.1482,75.872989,5,47,1H,Domagoj Vida,Defender,0,left CB
+263884378,Duel,Air duel,Won,1,France,1004.77165,75.249539,87,79,1H,Benjamin Pavard,Defender,0,right MF
+263884378,Duel,Air duel,Accurate,1,France,1004.77165,75.249539,87,79,1H,Benjamin Pavard,Defender,0,right MF
+263884451,Duel,Air duel,Lost,1,Croatia,1004.77165,75.249539,13,21,1H,Ante Rebic,Forward,0,central FW
+263884451,Duel,Air duel,Not accurate,1,Croatia,1004.77165,75.249539,13,21,1H,Ante Rebic,Forward,0,central FW
+263884379,Duel,Ground attacking duel,Lost,1,France,1010.99939,69.0218,91,93,1H,Kylian Mbappe Lottin,Forward,1,right FW
+263884379,Duel,Ground attacking duel,Not accurate,1,France,1010.99939,69.0218,91,93,1H,Kylian Mbappe Lottin,Forward,1,right FW
+263884455,Duel,Ground defending duel,Won,1,Croatia,1010.99939,69.0218,9,7,1H,Ivan Perisic,Midfielder,1,central FW
+263884455,Duel,Ground defending duel,Accurate,1,Croatia,1010.99939,69.0218,9,7,1H,Ivan Perisic,Midfielder,1,central FW
+263884271,Pass,Simple pass,Not accurate,1,Croatia,1012.86585,67.155345,18,8,1H,Ivan Perisic,Midfielder,1,central FW
+263884272,Pass,Simple pass,Accurate,1,France,1014.84108,65.180116,64,77,1H,Raphael Varane,Defender,0,right CB
+263884382,Duel,Ground attacking duel,Won,1,France,1016.88652,63.134676,74,69,1H,Antoine Griezmann,Forward,1,central MF
+263884382,Duel,Ground attacking duel,Accurate,1,France,1016.88652,63.134676,74,69,1H,Antoine Griezmann,Forward,1,central MF
+263885688,Duel,Ground defending duel,Lost,1,Croatia,1016.88652,63.134676,26,31,1H,Marcelo Brozovic,Midfielder,0,central MF
+263885688,Duel,Ground defending duel,Not accurate,1,Croatia,1016.88652,63.134676,26,31,1H,Marcelo Brozovic,Midfielder,0,central MF
+263884463,Foul,Foul,,1,Croatia,1018.46296,61.558227,23,34,1H,Marcelo Brozovic,Midfielder,0,central MF
+263884273,Free Kick,Free kick cross,High,1,France,1077.44911,2.572077,74,68,1H,Antoine Griezmann,Forward,1,central MF
+263884273,Free Kick,Free kick cross,Not accurate,1,France,1077.44911,2.572077,74,68,1H,Antoine Griezmann,Forward,1,central MF
+263884274,Others on the ball,Clearance,Own goal,1,Croatia,1078.7608,1.260391,11,61,1H,Mario Mandzukic,Forward,1,central FW
+263884274,Others on the ball,Clearance,Interception,1,Croatia,1078.7608,1.260391,11,61,1H,Mario Mandzukic,Forward,1,central FW
+263884274,Others on the ball,Clearance,Accurate,1,Croatia,1078.7608,1.260391,11,61,1H,Mario Mandzukic,Forward,1,central FW
+263885739,Save attempt,Reflexes,Goal,1,Croatia,1080.02119,0,100,100,1H,Danijel Subasic,Goalkeeper,0,Goalkeeper

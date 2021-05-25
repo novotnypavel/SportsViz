@@ -1,0 +1,189 @@
+Event_Id,Event_Name,Sub_Event_Name,Event_Tag,Event_position,Event_Team,Event Sec,Sec_Before_Goal,X,Y,Match_Label,Match_Period,Match_Winner,Player_Name,Player_Role,Player_Goals_Scored,Player_Role_Calculated
+263884349,Pass,Simple pass,Not accurate,1,Croatia,1498.723746,180.125194,33,46,France - Croatia. 4 - 2,1H,France,Ivan Strinic,Defender,0,left MF
+263884349,Pass,Simple pass,Not accurate,2,Croatia,1498.723746,180.125194,41,8,France - Croatia. 4 - 2,1H,France,Ivan Strinic,Defender,0,left MF
+263884339,Pass,Launch,Not accurate,1,France,1501.306752,177.542188,59,92,France - Croatia. 4 - 2,1H,France,Benjamin Pavard,Defender,0,right MF
+263884339,Pass,Launch,Not accurate,2,France,1501.306752,177.542188,74,63,France - Croatia. 4 - 2,1H,France,Benjamin Pavard,Defender,0,right MF
+263884352,Pass,Head pass,Accurate,1,Croatia,1506.848227,172.000713,26,37,France - Croatia. 4 - 2,1H,France,Domagoj Vida,Defender,0,left CB
+263884352,Pass,Head pass,Accurate,2,Croatia,1506.848227,172.000713,25,52,France - Croatia. 4 - 2,1H,France,Domagoj Vida,Defender,0,left CB
+263884353,Pass,Simple pass,Accurate,1,Croatia,1508.479631,170.369309,25,52,France - Croatia. 4 - 2,1H,France,Marcelo Brozovic,Midfielder,0,central MF
+263884353,Pass,Simple pass,Accurate,2,Croatia,1508.479631,170.369309,27,87,France - Croatia. 4 - 2,1H,France,Marcelo Brozovic,Midfielder,0,central MF
+263884355,Pass,High pass,Not accurate,1,Croatia,1511.285598,167.563342,27,87,France - Croatia. 4 - 2,1H,France,Sime Vrsaljko,Defender,0,right MF
+263884355,Pass,High pass,Not accurate,2,Croatia,1511.285598,167.563342,67,82,France - Croatia. 4 - 2,1H,France,Sime Vrsaljko,Defender,0,right MF
+263884346,Pass,High pass,Interception,1,France,1514.992703,163.856237,33,18,France - Croatia. 4 - 2,1H,France,Samuel Yves Umtiti,Defender,0,left CB
+263884346,Pass,High pass,Interception,2,France,1514.992703,163.856237,67,14,France - Croatia. 4 - 2,1H,France,Samuel Yves Umtiti,Defender,0,left CB
+263884346,Pass,High pass,Accurate,1,France,1514.992703,163.856237,33,18,France - Croatia. 4 - 2,1H,France,Samuel Yves Umtiti,Defender,0,left CB
+263884346,Pass,High pass,Accurate,2,France,1514.992703,163.856237,67,14,France - Croatia. 4 - 2,1H,France,Samuel Yves Umtiti,Defender,0,left CB
+263884347,Pass,Head pass,Not accurate,1,France,1517.052463,161.796477,67,14,France - Croatia. 4 - 2,1H,France,Olivier Giroud,Forward,0,central FW
+263884347,Pass,Head pass,Not accurate,2,France,1517.052463,161.796477,62,20,France - Croatia. 4 - 2,1H,France,Olivier Giroud,Forward,0,central FW
+263884357,Others on the ball,Touch,Missed ball,1,Croatia,1517.13805,161.71089,38,80,France - Croatia. 4 - 2,1H,France,Luka Modric,Midfielder,0,central MF-right FW
+263884357,Others on the ball,Touch,Missed ball,2,Croatia,1517.13805,161.71089,32,80,France - Croatia. 4 - 2,1H,France,Luka Modric,Midfielder,0,central MF-right FW
+263884454,Duel,Air duel,Lost,1,France,1518.672493,160.176447,68,20,France - Croatia. 4 - 2,1H,France,Blaise Matuidi,Midfielder,0,left MF
+263884454,Duel,Air duel,Lost,2,France,1518.672493,160.176447,54,0,France - Croatia. 4 - 2,1H,France,Blaise Matuidi,Midfielder,0,left MF
+263884454,Duel,Air duel,Not accurate,1,France,1518.672493,160.176447,68,20,France - Croatia. 4 - 2,1H,France,Blaise Matuidi,Midfielder,0,left MF
+263884454,Duel,Air duel,Not accurate,2,France,1518.672493,160.176447,54,0,France - Croatia. 4 - 2,1H,France,Blaise Matuidi,Midfielder,0,left MF
+263884546,Duel,Air duel,Won,1,Croatia,1518.672493,160.176447,32,80,France - Croatia. 4 - 2,1H,France,Marcelo Brozovic,Midfielder,0,central MF
+263884546,Duel,Air duel,Won,2,Croatia,1518.672493,160.176447,46,100,France - Croatia. 4 - 2,1H,France,Marcelo Brozovic,Midfielder,0,central MF
+263884546,Duel,Air duel,Accurate,1,Croatia,1518.672493,160.176447,32,80,France - Croatia. 4 - 2,1H,France,Marcelo Brozovic,Midfielder,0,central MF
+263884546,Duel,Air duel,Accurate,2,Croatia,1518.672493,160.176447,46,100,France - Croatia. 4 - 2,1H,France,Marcelo Brozovic,Midfielder,0,central MF
+263884360,Pass,Simple pass,Not accurate,1,France,1537.822383,141.026557,30,58,France - Croatia. 4 - 2,1H,France,Raphael Varane,Defender,0,right CB
+263884360,Pass,Simple pass,Not accurate,2,France,1537.822383,141.026557,30,9,France - Croatia. 4 - 2,1H,France,Raphael Varane,Defender,0,right CB
+263884366,Others on the ball,Touch,Interception,1,Croatia,1540.699157,138.149783,70,91,France - Croatia. 4 - 2,1H,France,Mario Mandzukic,Forward,1,central FW
+263884366,Others on the ball,Touch,Interception,2,Croatia,1540.699157,138.149783,72,93,France - Croatia. 4 - 2,1H,France,Mario Mandzukic,Forward,1,central FW
+263884362,Pass,High pass,Not accurate,1,France,1540.915588,137.933352,28,7,France - Croatia. 4 - 2,1H,France,Samuel Yves Umtiti,Defender,0,left CB
+263884362,Pass,High pass,Not accurate,2,France,1540.915588,137.933352,29,0,France - Croatia. 4 - 2,1H,France,Samuel Yves Umtiti,Defender,0,left CB
+263884365,Free Kick,Throw in,Accurate,1,France,1559.964868,118.884072,31,0,France - Croatia. 4 - 2,1H,France,Lucas  Hernandez Pi,Defender,0,left MF
+263884365,Free Kick,Throw in,Accurate,2,France,1559.964868,118.884072,54,7,France - Croatia. 4 - 2,1H,France,Lucas  Hernandez Pi,Defender,0,left MF
+263885713,Duel,Ground defending duel,Neutral,1,Croatia,1560.556286,118.292654,46,93,France - Croatia. 4 - 2,1H,France,Sime Vrsaljko,Defender,0,right MF
+263885713,Duel,Ground defending duel,Neutral,2,Croatia,1560.556286,118.292654,46,93,France - Croatia. 4 - 2,1H,France,Sime Vrsaljko,Defender,0,right MF
+263885713,Duel,Ground defending duel,Accurate,1,Croatia,1560.556286,118.292654,46,93,France - Croatia. 4 - 2,1H,France,Sime Vrsaljko,Defender,0,right MF
+263885713,Duel,Ground defending duel,Accurate,2,Croatia,1560.556286,118.292654,46,93,France - Croatia. 4 - 2,1H,France,Sime Vrsaljko,Defender,0,right MF
+263885725,Duel,Ground attacking duel,Neutral,1,France,1560.556286,118.292654,54,7,France - Croatia. 4 - 2,1H,France,Olivier Giroud,Forward,0,central FW
+263885725,Duel,Ground attacking duel,Neutral,2,France,1560.556286,118.292654,54,7,France - Croatia. 4 - 2,1H,France,Olivier Giroud,Forward,0,central FW
+263885725,Duel,Ground attacking duel,Accurate,1,France,1560.556286,118.292654,54,7,France - Croatia. 4 - 2,1H,France,Olivier Giroud,Forward,0,central FW
+263885725,Duel,Ground attacking duel,Accurate,2,France,1560.556286,118.292654,54,7,France - Croatia. 4 - 2,1H,France,Olivier Giroud,Forward,0,central FW
+263885727,Duel,Ground defending duel,Won,1,Croatia,1560.556286,118.292654,46,93,France - Croatia. 4 - 2,1H,France,Sime Vrsaljko,Defender,0,right MF
+263885727,Duel,Ground defending duel,Won,2,Croatia,1560.556286,118.292654,50,87,France - Croatia. 4 - 2,1H,France,Sime Vrsaljko,Defender,0,right MF
+263885727,Duel,Ground defending duel,Accurate,1,Croatia,1560.556286,118.292654,46,93,France - Croatia. 4 - 2,1H,France,Sime Vrsaljko,Defender,0,right MF
+263885727,Duel,Ground defending duel,Accurate,2,Croatia,1560.556286,118.292654,50,87,France - Croatia. 4 - 2,1H,France,Sime Vrsaljko,Defender,0,right MF
+263885693,Pass,Simple pass,Accurate,1,Croatia,1563.540476,115.308464,50,87,France - Croatia. 4 - 2,1H,France,Sime Vrsaljko,Defender,0,right MF
+263885693,Pass,Simple pass,Accurate,2,Croatia,1563.540476,115.308464,56,77,France - Croatia. 4 - 2,1H,France,Sime Vrsaljko,Defender,0,right MF
+263884371,Pass,Simple pass,Accurate,1,Croatia,1563.836432,115.012508,56,77,France - Croatia. 4 - 2,1H,France,Ivan Rakitic,Midfielder,0,left FW
+263884371,Pass,Simple pass,Accurate,2,Croatia,1563.836432,115.012508,43,70,France - Croatia. 4 - 2,1H,France,Ivan Rakitic,Midfielder,0,left FW
+263884373,Pass,Simple pass,Accurate,1,Croatia,1567.113275,111.735665,43,70,France - Croatia. 4 - 2,1H,France,Marcelo Brozovic,Midfielder,0,central MF
+263884373,Pass,Simple pass,Accurate,2,Croatia,1567.113275,111.735665,40,85,France - Croatia. 4 - 2,1H,France,Marcelo Brozovic,Midfielder,0,central MF
+263884376,Pass,Simple pass,Not accurate,1,Croatia,1568.667299,110.181641,40,85,France - Croatia. 4 - 2,1H,France,Dejan Lovren,Defender,0,right CB
+263884376,Pass,Simple pass,Not accurate,2,Croatia,1568.667299,110.181641,59,100,France - Croatia. 4 - 2,1H,France,Dejan Lovren,Defender,0,right CB
+263884374,Free Kick,Throw in,Accurate,1,France,1588.893135,89.955805,38,0,France - Croatia. 4 - 2,1H,France,Lucas  Hernandez Pi,Defender,0,left MF
+263884374,Free Kick,Throw in,Accurate,2,France,1588.893135,89.955805,65,10,France - Croatia. 4 - 2,1H,France,Lucas  Hernandez Pi,Defender,0,left MF
+263884375,Pass,Head pass,Not accurate,1,France,1590.089723,88.759217,65,10,France - Croatia. 4 - 2,1H,France,Blaise Matuidi,Midfielder,0,left MF
+263884375,Pass,Head pass,Not accurate,2,France,1590.089723,88.759217,65,14,France - Croatia. 4 - 2,1H,France,Blaise Matuidi,Midfielder,0,left MF
+263884383,Pass,Launch,Not accurate,1,Croatia,1590.688822,88.160118,35,86,France - Croatia. 4 - 2,1H,France,Dejan Lovren,Defender,0,right CB
+263884383,Pass,Launch,Not accurate,2,Croatia,1590.688822,88.160118,44,78,France - Croatia. 4 - 2,1H,France,Dejan Lovren,Defender,0,right CB
+263884377,Pass,Simple pass,Accurate,1,France,1592.969987,85.878953,56,22,France - Croatia. 4 - 2,1H,France,Antoine Griezmann,Forward,1,central MF
+263884377,Pass,Simple pass,Accurate,2,France,1592.969987,85.878953,39,81,France - Croatia. 4 - 2,1H,France,Antoine Griezmann,Forward,1,central MF
+263884381,Pass,Simple pass,Accurate,1,France,1598.669778,80.179162,39,81,France - Croatia. 4 - 2,1H,France,Benjamin Pavard,Defender,0,right MF
+263884381,Pass,Simple pass,Accurate,2,France,1598.669778,80.179162,58,94,France - Croatia. 4 - 2,1H,France,Benjamin Pavard,Defender,0,right MF
+263884384,Pass,Simple pass,Accurate,1,France,1599.777002,79.071938,58,94,France - Croatia. 4 - 2,1H,France,Kylian Mbappe Lottin,Forward,1,right FW
+263884384,Pass,Simple pass,Accurate,2,France,1599.777002,79.071938,63,81,France - Croatia. 4 - 2,1H,France,Kylian Mbappe Lottin,Forward,1,right FW
+263884385,Others on the ball,Touch,,1,France,1600.902328,77.946612,63,81,France - Croatia. 4 - 2,1H,France,Benjamin Pavard,Defender,0,right MF
+263884385,Others on the ball,Touch,,2,France,1600.902328,77.946612,82,94,France - Croatia. 4 - 2,1H,France,Benjamin Pavard,Defender,0,right MF
+263884468,Duel,Ground defending duel,Neutral,1,France,1605.680848,73.168092,82,94,France - Croatia. 4 - 2,1H,France,Benjamin Pavard,Defender,0,right MF
+263884468,Duel,Ground defending duel,Neutral,2,France,1605.680848,73.168092,88,88,France - Croatia. 4 - 2,1H,France,Benjamin Pavard,Defender,0,right MF
+263884468,Duel,Ground defending duel,Accurate,1,France,1605.680848,73.168092,82,94,France - Croatia. 4 - 2,1H,France,Benjamin Pavard,Defender,0,right MF
+263884468,Duel,Ground defending duel,Accurate,2,France,1605.680848,73.168092,88,88,France - Croatia. 4 - 2,1H,France,Benjamin Pavard,Defender,0,right MF
+263884579,Duel,Ground attacking duel,Neutral,1,Croatia,1605.680848,73.168092,18,6,France - Croatia. 4 - 2,1H,France,Ante Rebic,Forward,0,central FW
+263884579,Duel,Ground attacking duel,Neutral,2,Croatia,1605.680848,73.168092,12,12,France - Croatia. 4 - 2,1H,France,Ante Rebic,Forward,0,central FW
+263884579,Duel,Ground attacking duel,Accurate,1,Croatia,1605.680848,73.168092,18,6,France - Croatia. 4 - 2,1H,France,Ante Rebic,Forward,0,central FW
+263884579,Duel,Ground attacking duel,Accurate,2,Croatia,1605.680848,73.168092,12,12,France - Croatia. 4 - 2,1H,France,Ante Rebic,Forward,0,central FW
+263884386,Pass,Simple pass,Accurate,1,Croatia,1606.577732,72.271208,12,12,France - Croatia. 4 - 2,1H,France,Ante Rebic,Forward,0,central FW
+263884386,Pass,Simple pass,Accurate,2,Croatia,1606.577732,72.271208,11,17,France - Croatia. 4 - 2,1H,France,Ante Rebic,Forward,0,central FW
+263884387,Pass,Launch,Accurate,1,Croatia,1607.418163,71.430777,11,17,France - Croatia. 4 - 2,1H,France,Domagoj Vida,Defender,0,left CB
+263884387,Pass,Launch,Accurate,2,Croatia,1607.418163,71.430777,42,27,France - Croatia. 4 - 2,1H,France,Domagoj Vida,Defender,0,left CB
+263884389,Pass,Head pass,Accurate,1,Croatia,1610.478742,68.370198,42,27,France - Croatia. 4 - 2,1H,France,Mario Mandzukic,Forward,1,central FW
+263884389,Pass,Head pass,Accurate,2,Croatia,1610.478742,68.370198,54,68,France - Croatia. 4 - 2,1H,France,Mario Mandzukic,Forward,1,central FW
+263884390,Others on the ball,Acceleration,Accurate,1,Croatia,1613.620591,65.228349,54,68,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884390,Others on the ball,Acceleration,Accurate,2,Croatia,1613.620591,65.228349,70,45,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884474,Duel,Ground defending duel,Lost,1,France,1616.441157,62.407783,30,55,France - Croatia. 4 - 2,1H,France,N'Golo Kante,Midfielder,0,left CB
+263884474,Duel,Ground defending duel,Lost,2,France,1616.441157,62.407783,33,56,France - Croatia. 4 - 2,1H,France,N'Golo Kante,Midfielder,0,left CB
+263884474,Duel,Ground defending duel,Not accurate,1,France,1616.441157,62.407783,30,55,France - Croatia. 4 - 2,1H,France,N'Golo Kante,Midfielder,0,left CB
+263884474,Duel,Ground defending duel,Not accurate,2,France,1616.441157,62.407783,33,56,France - Croatia. 4 - 2,1H,France,N'Golo Kante,Midfielder,0,left CB
+263884611,Duel,Ground attacking duel,Won,1,Croatia,1616.441157,62.407783,70,45,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884611,Duel,Ground attacking duel,Won,2,Croatia,1616.441157,62.407783,67,44,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884611,Duel,Ground attacking duel,Accurate,1,Croatia,1616.441157,62.407783,70,45,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884611,Duel,Ground attacking duel,Accurate,2,Croatia,1616.441157,62.407783,67,44,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884475,Foul,Foul,Yellow card,1,France,1618.274416,60.574524,33,56,France - Croatia. 4 - 2,1H,France,N'Golo Kante,Midfielder,0,left CB
+263884475,Foul,Foul,Yellow card,2,France,1618.274416,60.574524,30,55,France - Croatia. 4 - 2,1H,France,N'Golo Kante,Midfielder,0,left CB
+263884392,Free Kick,Free kick cross,High,1,Croatia,1667.389939,11.459001,66,40,France - Croatia. 4 - 2,1H,France,Luka Modric,Midfielder,0,central MF-right FW
+263884392,Free Kick,Free kick cross,High,2,Croatia,1667.389939,11.459001,88,57,France - Croatia. 4 - 2,1H,France,Luka Modric,Midfielder,0,central MF-right FW
+263884392,Free Kick,Free kick cross,Accurate,1,Croatia,1667.389939,11.459001,66,40,France - Croatia. 4 - 2,1H,France,Luka Modric,Midfielder,0,central MF-right FW
+263884392,Free Kick,Free kick cross,Accurate,2,Croatia,1667.389939,11.459001,88,57,France - Croatia. 4 - 2,1H,France,Luka Modric,Midfielder,0,central MF-right FW
+263884395,Pass,Head pass,Accurate,1,Croatia,1671.715305,7.133635,88,57,France - Croatia. 4 - 2,1H,France,Mario Mandzukic,Forward,1,central FW
+263884395,Pass,Head pass,Accurate,2,Croatia,1671.715305,7.133635,89,61,France - Croatia. 4 - 2,1H,France,Mario Mandzukic,Forward,1,central FW
+263884482,Duel,Air duel,Lost,1,France,1671.775232,7.073708,11,39,France - Croatia. 4 - 2,1H,France,Paul Pogba,Midfielder,1,right CB
+263884482,Duel,Air duel,Lost,2,France,1671.775232,7.073708,11,45,France - Croatia. 4 - 2,1H,France,Paul Pogba,Midfielder,1,right CB
+263884482,Duel,Air duel,Not accurate,1,France,1671.775232,7.073708,11,39,France - Croatia. 4 - 2,1H,France,Paul Pogba,Midfielder,1,right CB
+263884482,Duel,Air duel,Not accurate,2,France,1671.775232,7.073708,11,45,France - Croatia. 4 - 2,1H,France,Paul Pogba,Midfielder,1,right CB
+263884595,Duel,Air duel,Won,1,Croatia,1671.775232,7.073708,89,61,France - Croatia. 4 - 2,1H,France,Mario Mandzukic,Forward,1,central FW
+263884595,Duel,Air duel,Won,2,Croatia,1671.775232,7.073708,89,55,France - Croatia. 4 - 2,1H,France,Mario Mandzukic,Forward,1,central FW
+263884595,Duel,Air duel,Accurate,1,Croatia,1671.775232,7.073708,89,61,France - Croatia. 4 - 2,1H,France,Mario Mandzukic,Forward,1,central FW
+263884595,Duel,Air duel,Accurate,2,Croatia,1671.775232,7.073708,89,55,France - Croatia. 4 - 2,1H,France,Mario Mandzukic,Forward,1,central FW
+263884484,Duel,Air duel,Lost,1,France,1673.01622,5.83272,11,45,France - Croatia. 4 - 2,1H,France,Blaise Matuidi,Midfielder,0,left MF
+263884484,Duel,Air duel,Lost,2,France,1673.01622,5.83272,9,56,France - Croatia. 4 - 2,1H,France,Blaise Matuidi,Midfielder,0,left MF
+263884484,Duel,Air duel,Not accurate,1,France,1673.01622,5.83272,11,45,France - Croatia. 4 - 2,1H,France,Blaise Matuidi,Midfielder,0,left MF
+263884484,Duel,Air duel,Not accurate,2,France,1673.01622,5.83272,9,56,France - Croatia. 4 - 2,1H,France,Blaise Matuidi,Midfielder,0,left MF
+263884597,Duel,Air duel,Won,1,Croatia,1673.01622,5.83272,89,55,France - Croatia. 4 - 2,1H,France,Dejan Lovren,Defender,0,right CB
+263884597,Duel,Air duel,Won,2,Croatia,1673.01622,5.83272,91,44,France - Croatia. 4 - 2,1H,France,Dejan Lovren,Defender,0,right CB
+263884597,Duel,Air duel,Accurate,1,Croatia,1673.01622,5.83272,89,55,France - Croatia. 4 - 2,1H,France,Dejan Lovren,Defender,0,right CB
+263884597,Duel,Air duel,Accurate,2,Croatia,1673.01622,5.83272,91,44,France - Croatia. 4 - 2,1H,France,Dejan Lovren,Defender,0,right CB
+263884396,Pass,Simple pass,Assist,1,Croatia,1673.913603,4.935337,91,44,France - Croatia. 4 - 2,1H,France,Domagoj Vida,Defender,0,left CB
+263884396,Pass,Simple pass,Assist,2,Croatia,1673.913603,4.935337,87,47,France - Croatia. 4 - 2,1H,France,Domagoj Vida,Defender,0,left CB
+263884396,Pass,Simple pass,Accurate,1,Croatia,1673.913603,4.935337,91,44,France - Croatia. 4 - 2,1H,France,Domagoj Vida,Defender,0,left CB
+263884396,Pass,Simple pass,Accurate,2,Croatia,1673.913603,4.935337,87,47,France - Croatia. 4 - 2,1H,France,Domagoj Vida,Defender,0,left CB
+263884487,Duel,Ground defending duel,Free space right,1,France,1674.564355,4.284585,13,53,France - Croatia. 4 - 2,1H,France,N'Golo Kante,Midfielder,0,left CB
+263884487,Duel,Ground defending duel,Free space right,2,France,1674.564355,4.284585,13,58,France - Croatia. 4 - 2,1H,France,N'Golo Kante,Midfielder,0,left CB
+263884487,Duel,Ground defending duel,Lost,1,France,1674.564355,4.284585,13,53,France - Croatia. 4 - 2,1H,France,N'Golo Kante,Midfielder,0,left CB
+263884487,Duel,Ground defending duel,Not accurate,1,France,1674.564355,4.284585,13,53,France - Croatia. 4 - 2,1H,France,N'Golo Kante,Midfielder,0,left CB
+263884487,Duel,Ground defending duel,Lost,2,France,1674.564355,4.284585,13,58,France - Croatia. 4 - 2,1H,France,N'Golo Kante,Midfielder,0,left CB
+263884487,Duel,Ground defending duel,Not accurate,2,France,1674.564355,4.284585,13,58,France - Croatia. 4 - 2,1H,France,N'Golo Kante,Midfielder,0,left CB
+263884599,Duel,Ground attacking duel,Free space left,1,Croatia,1674.564355,4.284585,87,47,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884599,Duel,Ground attacking duel,Free space left,2,Croatia,1674.564355,4.284585,87,42,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884599,Duel,Ground attacking duel,Won,1,Croatia,1674.564355,4.284585,87,47,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884599,Duel,Ground attacking duel,Accurate,1,Croatia,1674.564355,4.284585,87,47,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884599,Duel,Ground attacking duel,Won,2,Croatia,1674.564355,4.284585,87,42,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884599,Duel,Ground attacking duel,Accurate,2,Croatia,1674.564355,4.284585,87,42,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884397,Shot,Shot,Goal,1,Croatia,1676.030001,2.818939,87,42,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884397,Shot,Shot,Goal,2,Croatia,1676.030001,2.818939,100,100,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884397,Shot,Shot,Left foot,1,Croatia,1676.030001,2.818939,87,42,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884397,Shot,Shot,Opportunity,1,Croatia,1676.030001,2.818939,87,42,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884397,Shot,Shot,Position: Goal center right,1,Croatia,1676.030001,2.818939,87,42,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884397,Shot,Shot,Accurate,1,Croatia,1676.030001,2.818939,87,42,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884397,Shot,Shot,Left foot,2,Croatia,1676.030001,2.818939,100,100,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884397,Shot,Shot,Opportunity,2,Croatia,1676.030001,2.818939,100,100,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884397,Shot,Shot,Position: Goal center right,2,Croatia,1676.030001,2.818939,100,100,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884397,Shot,Shot,Accurate,2,Croatia,1676.030001,2.818939,100,100,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884394,Save attempt,Reflexes,Goal,1,France,1678.848939,0,0,0,France - Croatia. 4 - 2,1H,France,Hugo Lloris,Goalkeeper,0,Goalkeeper
+263884394,Save attempt,Reflexes,Goal,2,France,1678.848939,0,13,58,France - Croatia. 4 - 2,1H,France,Hugo Lloris,Goalkeeper,0,Goalkeeper
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,

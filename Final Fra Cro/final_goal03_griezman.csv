@@ -1,0 +1,51 @@
+Event_Id,Event_Name,Sub_Event_Name,Event_Tag,Event_position,Event_Team,Event Sec,Sec_Before_Goal,X,Y,Match_Label,Match_Period,Match_Winner,Player_Name,Player_Role,Player_Goals_Scored,Player_Role_Calculated
+263885659,Foul,Hand foul,,1,Croatia,2021.055099,259.315071,3,44,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263885659,Foul,Hand foul,,2,Croatia,2021.055099,259.315071,100,100,France - Croatia. 4 - 2,1H,France,Ivan Perisic,Midfielder,1,central FW
+263884513,Free Kick,Penalty,Goal,1,France,2278.895744,1.474426,89,49,France - Croatia. 4 - 2,1H,France,Antoine Griezmann,Forward,1,central MF
+263884513,Free Kick,Penalty,Goal,2,France,2278.895744,1.474426,97,56,France - Croatia. 4 - 2,1H,France,Antoine Griezmann,Forward,1,central MF
+263884513,Free Kick,Penalty,Left foot,1,France,2278.895744,1.474426,89,49,France - Croatia. 4 - 2,1H,France,Antoine Griezmann,Forward,1,central MF
+263884513,Free Kick,Penalty,Position: Goal low left,1,France,2278.895744,1.474426,89,49,France - Croatia. 4 - 2,1H,France,Antoine Griezmann,Forward,1,central MF
+263884513,Free Kick,Penalty,Accurate,1,France,2278.895744,1.474426,89,49,France - Croatia. 4 - 2,1H,France,Antoine Griezmann,Forward,1,central MF
+263884513,Free Kick,Penalty,Left foot,2,France,2278.895744,1.474426,97,56,France - Croatia. 4 - 2,1H,France,Antoine Griezmann,Forward,1,central MF
+263884513,Free Kick,Penalty,Position: Goal low left,2,France,2278.895744,1.474426,97,56,France - Croatia. 4 - 2,1H,France,Antoine Griezmann,Forward,1,central MF
+263884513,Free Kick,Penalty,Accurate,2,France,2278.895744,1.474426,97,56,France - Croatia. 4 - 2,1H,France,Antoine Griezmann,Forward,1,central MF
+263884514,Save attempt,Reflexes,Goal,1,Croatia,2280.370171,0,100,100,France - Croatia. 4 - 2,1H,France,Danijel Subasic,Goalkeeper,0,Goalkeeper
+263884514,Save attempt,Reflexes,Goal,2,Croatia,2280.370171,0,11,51,France - Croatia. 4 - 2,1H,France,Danijel Subasic,Goalkeeper,0,Goalkeeper
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
