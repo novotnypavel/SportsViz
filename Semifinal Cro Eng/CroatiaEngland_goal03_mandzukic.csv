@@ -1,0 +1,153 @@
+﻿Event_Id,Event_Name,Sub_Event_Name,Event_Tag,Event_position,Event_Team,Event Sec,Sec_Before_Goal,X,Y,Match_Label,Match_Period,Match_Winner,Player_Name,Player_Role,Player_Goals_Scored,Player_Role_Calculated
+263156159,Pass,Simple pass,Accurate,1,Croatia,5.648953,179.362439,40,73,Croatia - England. 2 - 1 (E),E2,Croatia,Luka Modric,Midfielder,0,central MF
+263156159,Pass,Simple pass,Accurate,2,Croatia,5.648953,179.362439,49,97,Croatia - England. 2 - 1 (E),E2,Croatia,Luka Modric,Midfielder,0,central MF
+263156160,Pass,Simple pass,Not accurate,1,Croatia,8.541187,176.470205,49,97,Croatia - England. 2 - 1 (E),E2,Croatia,Sime Vrsaljko,Defender,0,right MF
+263156160,Pass,Simple pass,Not accurate,2,Croatia,8.541187,176.470205,73,69,Croatia - England. 2 - 1 (E),E2,Croatia,Sime Vrsaljko,Defender,0,right MF
+263155850,Pass,Simple pass,Accurate,1,England,11.598777,173.412615,27,31,Croatia - England. 2 - 1 (E),E2,Croatia,John Stones,Defender,0,right CB
+263155850,Pass,Simple pass,Accurate,2,England,11.598777,173.412615,31,32,Croatia - England. 2 - 1 (E),E2,Croatia,John Stones,Defender,0,right CB
+263155852,Pass,Simple pass,Accurate,1,England,12.513759,172.497633,31,32,Croatia - England. 2 - 1 (E),E2,Croatia,Eric  Dier,Midfielder,0,right CB
+263155852,Pass,Simple pass,Accurate,2,England,12.513759,172.497633,29,44,Croatia - England. 2 - 1 (E),E2,Croatia,Eric  Dier,Midfielder,0,right CB
+263155853,Pass,Simple pass,Accurate,1,England,13.180401,171.830991,29,44,Croatia - England. 2 - 1 (E),E2,Croatia,John Stones,Defender,0,right CB
+263155853,Pass,Simple pass,Accurate,2,England,13.180401,171.830991,31,6,Croatia - England. 2 - 1 (E),E2,Croatia,John Stones,Defender,0,right CB
+263155854,Pass,Simple pass,Not accurate,1,England,17.2742,167.737192,31,6,Croatia - England. 2 - 1 (E),E2,Croatia,Danny Rose,Defender,0,left MF
+263155854,Pass,Simple pass,Not accurate,2,England,17.2742,167.737192,90,9,Croatia - England. 2 - 1 (E),E2,Croatia,Danny Rose,Defender,0,left MF
+263156163,Pass,Simple pass,Accurate,1,Croatia,21.269884,163.741508,10,91,Croatia - England. 2 - 1 (E),E2,Croatia,Dejan Lovren,Defender,0,right CB
+263156163,Pass,Simple pass,Accurate,2,Croatia,21.269884,163.741508,4,45,Croatia - England. 2 - 1 (E),E2,Croatia,Dejan Lovren,Defender,0,right CB
+263156164,Others on the ball,Clearance,Not accurate,1,Croatia,24.539251,160.472141,4,45,Croatia - England. 2 - 1 (E),E2,Croatia,Danijel Subasic,Goalkeeper,0,Goalkeeper
+263156164,Others on the ball,Clearance,Not accurate,2,Croatia,24.539251,160.472141,42,0,Croatia - England. 2 - 1 (E),E2,Croatia,Danijel Subasic,Goalkeeper,0,Goalkeeper
+263155858,Free Kick,Throw in,Accurate,1,England,32.48882,152.522572,32,100,Croatia - England. 2 - 1 (E),E2,Croatia,Kieran Trippier,Defender,1,right MF
+263155858,Free Kick,Throw in,Accurate,2,England,32.48882,152.522572,29,87,Croatia - England. 2 - 1 (E),E2,Croatia,Kieran Trippier,Defender,1,right MF
+263155860,Pass,Simple pass,Accurate,1,England,36.625803,148.385589,29,87,Croatia - England. 2 - 1 (E),E2,Croatia,Kyle Walker,Defender,0,right CB
+263155860,Pass,Simple pass,Accurate,2,England,36.625803,148.385589,37,85,Croatia - England. 2 - 1 (E),E2,Croatia,Kyle Walker,Defender,0,right CB
+263155861,Pass,Simple pass,Accurate,1,England,39.018681,145.992711,37,85,Croatia - England. 2 - 1 (E),E2,Croatia,Eric  Dier,Midfielder,0,right CB
+263155861,Pass,Simple pass,Accurate,2,England,39.018681,145.992711,26,85,Croatia - England. 2 - 1 (E),E2,Croatia,Eric  Dier,Midfielder,0,right CB
+263155862,Pass,Simple pass,Accurate,1,England,40.453849,144.557543,26,85,Croatia - England. 2 - 1 (E),E2,Croatia,Kyle Walker,Defender,0,right CB
+263155862,Pass,Simple pass,Accurate,2,England,40.453849,144.557543,6,58,Croatia - England. 2 - 1 (E),E2,Croatia,Kyle Walker,Defender,0,right CB
+263155863,Pass,Launch,Not accurate,1,England,43.508067,141.503325,6,58,Croatia - England. 2 - 1 (E),E2,Croatia,Jordan Pickford,Goalkeeper,0,Goalkeeper
+263155863,Pass,Launch,Not accurate,2,England,43.508067,141.503325,32,100,Croatia - England. 2 - 1 (E),E2,Croatia,Jordan Pickford,Goalkeeper,0,Goalkeeper
+263156168,Free Kick,Throw in,Accurate,1,Croatia,54.817331,130.194061,69,0,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263156168,Free Kick,Throw in,Accurate,2,Croatia,54.817331,130.194061,77,8,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263156169,Pass,Simple pass,Accurate,1,Croatia,56.390279,128.621113,77,8,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156169,Pass,Simple pass,Accurate,2,Croatia,56.390279,128.621113,88,15,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156170,Pass,Simple pass,Accurate,1,Croatia,58.515101,126.496291,88,15,Croatia - England. 2 - 1 (E),E2,Croatia,Mario Mandzukic,Forward,1,central FW
+263156170,Pass,Simple pass,Accurate,2,Croatia,58.515101,126.496291,95,10,Croatia - England. 2 - 1 (E),E2,Croatia,Mario Mandzukic,Forward,1,central FW
+263156172,Pass,Cross,Left foot,1,Croatia,61.558853,123.452539,95,10,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156172,Pass,Cross,Left foot,2,Croatia,61.558853,123.452539,0,0,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156172,Pass,Cross,Blocked,1,Croatia,61.558853,123.452539,95,10,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156172,Pass,Cross,Not accurate,1,Croatia,61.558853,123.452539,95,10,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156172,Pass,Cross,Blocked,2,Croatia,61.558853,123.452539,0,0,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156172,Pass,Cross,Not accurate,2,Croatia,61.558853,123.452539,0,0,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263155865,Others on the ball,Touch,Interception,1,England,63.9394,121.071992,3,87,Croatia - England. 2 - 1 (E),E2,Croatia,Kieran Trippier,Defender,1,right MF
+263155865,Others on the ball,Touch,Interception,2,England,63.9394,121.071992,6,100,Croatia - England. 2 - 1 (E),E2,Croatia,Kieran Trippier,Defender,1,right MF
+263156174,Free Kick,Throw in,Accurate,1,Croatia,72.963324,112.048068,91,0,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263156174,Free Kick,Throw in,Accurate,2,Croatia,72.963324,112.048068,92,13,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263156175,Pass,Simple pass,Accurate,1,Croatia,74.11275,110.898642,92,13,Croatia - England. 2 - 1 (E),E2,Croatia,Andrej Kramaric,Forward,0,central FW
+263156175,Pass,Simple pass,Accurate,2,Croatia,74.11275,110.898642,92,4,Croatia - England. 2 - 1 (E),E2,Croatia,Andrej Kramaric,Forward,0,central FW
+263156176,Pass,Simple pass,Accurate,1,Croatia,75.217762,109.79363,92,4,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263156176,Pass,Simple pass,Accurate,2,Croatia,75.217762,109.79363,87,11,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263156177,Pass,Simple pass,Accurate,1,Croatia,76.194387,108.817005,87,11,Croatia - England. 2 - 1 (E),E2,Croatia,Andrej Kramaric,Forward,0,central FW
+263156177,Pass,Simple pass,Accurate,2,Croatia,76.194387,108.817005,92,6,Croatia - England. 2 - 1 (E),E2,Croatia,Andrej Kramaric,Forward,0,central FW
+263156178,Pass,Simple pass,Accurate,1,Croatia,76.923045,108.088347,92,6,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263156178,Pass,Simple pass,Accurate,2,Croatia,76.923045,108.088347,69,11,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263156179,Pass,Simple pass,Accurate,1,Croatia,78.61601,106.395382,69,11,Croatia - England. 2 - 1 (E),E2,Croatia,Marcelo Brozovic,Midfielder,0,central MF
+263156179,Pass,Simple pass,Accurate,2,Croatia,78.61601,106.395382,74,40,Croatia - England. 2 - 1 (E),E2,Croatia,Marcelo Brozovic,Midfielder,0,central MF
+263156180,Pass,Simple pass,Accurate,1,Croatia,81.936372,103.07502,74,40,Croatia - England. 2 - 1 (E),E2,Croatia,Luka Modric,Midfielder,0,central MF
+263156180,Pass,Simple pass,Accurate,2,Croatia,81.936372,103.07502,59,69,Croatia - England. 2 - 1 (E),E2,Croatia,Luka Modric,Midfielder,0,central MF
+263156181,Pass,Simple pass,Accurate,1,Croatia,86.700635,98.310757,59,69,Croatia - England. 2 - 1 (E),E2,Croatia,Dejan Lovren,Defender,0,right CB
+263156181,Pass,Simple pass,Accurate,2,Croatia,86.700635,98.310757,62,34,Croatia - England. 2 - 1 (E),E2,Croatia,Dejan Lovren,Defender,0,right CB
+263156182,Pass,Simple pass,Accurate,1,Croatia,90.213542,94.79785,62,34,Croatia - England. 2 - 1 (E),E2,Croatia,Marcelo Brozovic,Midfielder,0,central MF
+263156182,Pass,Simple pass,Accurate,2,Croatia,90.213542,94.79785,75,8,Croatia - England. 2 - 1 (E),E2,Croatia,Marcelo Brozovic,Midfielder,0,central MF
+263156183,Pass,Simple pass,Accurate,1,Croatia,93.254352,91.75704,75,8,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263156183,Pass,Simple pass,Accurate,2,Croatia,93.254352,91.75704,86,10,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263155866,Duel,Ground defending duel,Free space right,1,England,96.913153,88.098239,14,90,Croatia - England. 2 - 1 (E),E2,Croatia,Jesse Lingard,Midfielder,0,right FW
+263155866,Duel,Ground defending duel,Free space right,2,England,96.913153,88.098239,8,90,Croatia - England. 2 - 1 (E),E2,Croatia,Jesse Lingard,Midfielder,0,right FW
+263155866,Duel,Ground defending duel,Lost,1,England,96.913153,88.098239,14,90,Croatia - England. 2 - 1 (E),E2,Croatia,Jesse Lingard,Midfielder,0,right FW
+263155866,Duel,Ground defending duel,Not accurate,1,England,96.913153,88.098239,14,90,Croatia - England. 2 - 1 (E),E2,Croatia,Jesse Lingard,Midfielder,0,right FW
+263155866,Duel,Ground defending duel,Lost,2,England,96.913153,88.098239,8,90,Croatia - England. 2 - 1 (E),E2,Croatia,Jesse Lingard,Midfielder,0,right FW
+263155866,Duel,Ground defending duel,Not accurate,2,England,96.913153,88.098239,8,90,Croatia - England. 2 - 1 (E),E2,Croatia,Jesse Lingard,Midfielder,0,right FW
+263156185,Duel,Ground attacking duel,Free space left,1,Croatia,96.913153,88.098239,86,10,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156185,Duel,Ground attacking duel,Free space left,2,Croatia,96.913153,88.098239,92,10,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156185,Duel,Ground attacking duel,Won,1,Croatia,96.913153,88.098239,86,10,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156185,Duel,Ground attacking duel,Accurate,1,Croatia,96.913153,88.098239,86,10,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156185,Duel,Ground attacking duel,Won,2,Croatia,96.913153,88.098239,92,10,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156185,Duel,Ground attacking duel,Accurate,2,Croatia,96.913153,88.098239,92,10,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156186,Pass,Cross,Left foot,1,Croatia,97.64128,87.370112,92,10,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156186,Pass,Cross,Left foot,2,Croatia,97.64128,87.370112,0,0,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156186,Pass,Cross,Blocked,1,Croatia,97.64128,87.370112,92,10,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156186,Pass,Cross,Not accurate,1,Croatia,97.64128,87.370112,92,10,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156186,Pass,Cross,Blocked,2,Croatia,97.64128,87.370112,0,0,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156186,Pass,Cross,Not accurate,2,Croatia,97.64128,87.370112,0,0,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263155867,Others on the ball,Touch,Interception,1,England,101.212337,83.799055,11,91,Croatia - England. 2 - 1 (E),E2,Croatia,Jesse Lingard,Midfielder,0,right FW
+263155867,Others on the ball,Touch,Interception,2,England,101.212337,83.799055,0,70,Croatia - England. 2 - 1 (E),E2,Croatia,Jesse Lingard,Midfielder,0,right FW
+263156188,Free Kick,Corner,Key pass,1,Croatia,122.283955,62.727437,100,0,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156188,Free Kick,Corner,Key pass,2,Croatia,122.283955,62.727437,91,32,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156188,Free Kick,Corner,Accurate,1,Croatia,122.283955,62.727437,100,0,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156188,Free Kick,Corner,Accurate,2,Croatia,122.283955,62.727437,91,32,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156189,Shot,Shot,Left foot,1,Croatia,123.736228,61.275164,91,32,Croatia - England. 2 - 1 (E),E2,Croatia,Marcelo Brozovic,Midfielder,0,central MF
+263156189,Shot,Shot,Left foot,2,Croatia,123.736228,61.275164,0,0,Croatia - England. 2 - 1 (E),E2,Croatia,Marcelo Brozovic,Midfielder,0,central MF
+263156189,Shot,Shot,Opportunity,1,Croatia,123.736228,61.275164,91,32,Croatia - England. 2 - 1 (E),E2,Croatia,Marcelo Brozovic,Midfielder,0,central MF
+263156189,Shot,Shot,Position: Out high left,1,Croatia,123.736228,61.275164,91,32,Croatia - England. 2 - 1 (E),E2,Croatia,Marcelo Brozovic,Midfielder,0,central MF
+263156189,Shot,Shot,Not accurate,1,Croatia,123.736228,61.275164,91,32,Croatia - England. 2 - 1 (E),E2,Croatia,Marcelo Brozovic,Midfielder,0,central MF
+263156189,Shot,Shot,Opportunity,2,Croatia,123.736228,61.275164,0,0,Croatia - England. 2 - 1 (E),E2,Croatia,Marcelo Brozovic,Midfielder,0,central MF
+263156189,Shot,Shot,Position: Out high left,2,Croatia,123.736228,61.275164,0,0,Croatia - England. 2 - 1 (E),E2,Croatia,Marcelo Brozovic,Midfielder,0,central MF
+263156189,Shot,Shot,Not accurate,2,Croatia,123.736228,61.275164,0,0,Croatia - England. 2 - 1 (E),E2,Croatia,Marcelo Brozovic,Midfielder,0,central MF
+263155868,Free Kick,Goal kick,,1,England,140.72237,44.289022,100,100,Croatia - England. 2 - 1 (E),E2,Croatia,Jordan Pickford,Goalkeeper,0,Goalkeeper
+263155868,Free Kick,Goal kick,,2,England,140.72237,44.289022,20,70,Croatia - England. 2 - 1 (E),E2,Croatia,Jordan Pickford,Goalkeeper,0,Goalkeeper
+263155869,Pass,Simple pass,Accurate,1,England,143.792849,41.218543,20,70,Croatia - England. 2 - 1 (E),E2,Croatia,John Stones,Defender,0,right CB
+263155869,Pass,Simple pass,Accurate,2,England,143.792849,41.218543,31,80,Croatia - England. 2 - 1 (E),E2,Croatia,John Stones,Defender,0,right CB
+263155870,Pass,Simple pass,Accurate,1,England,145.961403,39.049989,31,80,Croatia - England. 2 - 1 (E),E2,Croatia,Eric  Dier,Midfielder,0,right CB
+263155870,Pass,Simple pass,Accurate,2,England,145.961403,39.049989,33,97,Croatia - England. 2 - 1 (E),E2,Croatia,Eric  Dier,Midfielder,0,right CB
+263155871,Pass,High pass,Not accurate,1,England,147.14686,37.864532,33,97,Croatia - England. 2 - 1 (E),E2,Croatia,Kieran Trippier,Defender,1,right MF
+263155871,Pass,High pass,Not accurate,2,England,147.14686,37.864532,67,65,Croatia - England. 2 - 1 (E),E2,Croatia,Kieran Trippier,Defender,1,right MF
+263156192,Pass,Head pass,Interception,1,Croatia,148.449669,36.561723,33,35,Croatia - England. 2 - 1 (E),E2,Croatia,Domagoj Vida,Defender,0,left CB
+263156192,Pass,Head pass,Interception,2,Croatia,148.449669,36.561723,71,37,Croatia - England. 2 - 1 (E),E2,Croatia,Domagoj Vida,Defender,0,left CB
+263156192,Pass,Head pass,Accurate,1,Croatia,148.449669,36.561723,33,35,Croatia - England. 2 - 1 (E),E2,Croatia,Domagoj Vida,Defender,0,left CB
+263156192,Pass,Head pass,Accurate,2,Croatia,148.449669,36.561723,71,37,Croatia - England. 2 - 1 (E),E2,Croatia,Domagoj Vida,Defender,0,left CB
+263156193,Pass,Simple pass,Accurate,1,Croatia,152.369838,32.641554,71,37,Croatia - England. 2 - 1 (E),E2,Croatia,Andrej Kramaric,Forward,0,central FW
+263156193,Pass,Simple pass,Accurate,2,Croatia,152.369838,32.641554,72,15,Croatia - England. 2 - 1 (E),E2,Croatia,Andrej Kramaric,Forward,0,central FW
+263155877,Duel,Ground defending duel,Neutral,1,England,155.997743,29.013649,28,85,Croatia - England. 2 - 1 (E),E2,Croatia,John Stones,Defender,0,right CB
+263155877,Duel,Ground defending duel,Neutral,2,England,155.997743,29.013649,30,84,Croatia - England. 2 - 1 (E),E2,Croatia,John Stones,Defender,0,right CB
+263155877,Duel,Ground defending duel,Accurate,1,England,155.997743,29.013649,28,85,Croatia - England. 2 - 1 (E),E2,Croatia,John Stones,Defender,0,right CB
+263155877,Duel,Ground defending duel,Accurate,2,England,155.997743,29.013649,30,84,Croatia - England. 2 - 1 (E),E2,Croatia,John Stones,Defender,0,right CB
+263156195,Duel,Ground attacking duel,Neutral,1,Croatia,155.997743,29.013649,72,15,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156195,Duel,Ground attacking duel,Neutral,2,Croatia,155.997743,29.013649,70,16,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156195,Duel,Ground attacking duel,Accurate,1,Croatia,155.997743,29.013649,72,15,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156195,Duel,Ground attacking duel,Accurate,2,Croatia,155.997743,29.013649,70,16,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156196,Pass,Simple pass,Not accurate,1,Croatia,156.353984,28.657408,70,16,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156196,Pass,Simple pass,Not accurate,2,Croatia,156.353984,28.657408,72,10,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263155879,Others on the ball,Clearance,Interception,1,England,157.618128,27.393264,28,90,Croatia - England. 2 - 1 (E),E2,Croatia,John Stones,Defender,0,right CB
+263155879,Others on the ball,Clearance,Interception,2,England,157.618128,27.393264,30,100,Croatia - England. 2 - 1 (E),E2,Croatia,John Stones,Defender,0,right CB
+263155879,Others on the ball,Clearance,Not accurate,1,England,157.618128,27.393264,28,90,Croatia - England. 2 - 1 (E),E2,Croatia,John Stones,Defender,0,right CB
+263155879,Others on the ball,Clearance,Not accurate,2,England,157.618128,27.393264,30,100,Croatia - England. 2 - 1 (E),E2,Croatia,John Stones,Defender,0,right CB
+263156198,Free Kick,Throw in,Accurate,1,Croatia,163.988119,21.023273,68,0,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263156198,Free Kick,Throw in,Accurate,2,Croatia,163.988119,21.023273,60,18,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263156199,Pass,High pass,Accurate,1,Croatia,165.888828,19.122564,60,18,Croatia - England. 2 - 1 (E),E2,Croatia,Marcelo Brozovic,Midfielder,0,central MF
+263156199,Pass,High pass,Accurate,2,Croatia,165.888828,19.122564,57,69,Croatia - England. 2 - 1 (E),E2,Croatia,Marcelo Brozovic,Midfielder,0,central MF
+263156200,Pass,Simple pass,Accurate,1,Croatia,169.956491,15.054901,57,69,Croatia - England. 2 - 1 (E),E2,Croatia,Dejan Lovren,Defender,0,right CB
+263156200,Pass,Simple pass,Accurate,2,Croatia,169.956491,15.054901,47,48,Croatia - England. 2 - 1 (E),E2,Croatia,Dejan Lovren,Defender,0,right CB
+263156201,Pass,Simple pass,Accurate,1,Croatia,172.374618,12.636774,47,48,Croatia - England. 2 - 1 (E),E2,Croatia,Marcelo Brozovic,Midfielder,0,central MF
+263156201,Pass,Simple pass,Accurate,2,Croatia,172.374618,12.636774,68,18,Croatia - England. 2 - 1 (E),E2,Croatia,Marcelo Brozovic,Midfielder,0,central MF
+263156202,Pass,Simple pass,Accurate,1,Croatia,175.511582,9.49981,68,18,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156202,Pass,Simple pass,Accurate,2,Croatia,175.511582,9.49981,78,7,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Rakitic,Midfielder,0,left FW
+263156203,Pass,Cross,Left foot,1,Croatia,179.369167,5.642225,78,7,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263156203,Pass,Cross,Left foot,2,Croatia,179.369167,5.642225,88,32,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263156203,Pass,Cross,High,1,Croatia,179.369167,5.642225,78,7,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263156203,Pass,Cross,Not accurate,1,Croatia,179.369167,5.642225,78,7,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263156203,Pass,Cross,High,2,Croatia,179.369167,5.642225,88,32,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263156203,Pass,Cross,Not accurate,2,Croatia,179.369167,5.642225,88,32,Croatia - England. 2 - 1 (E),E2,Croatia,Josip Pivaric,Defender,0,left MF
+263155881,Pass,Launch,Interception,1,England,180.762028,4.249364,12,68,Croatia - England. 2 - 1 (E),E2,Croatia,Kyle Walker,Defender,0,right CB
+263155881,Pass,Launch,Interception,2,England,180.762028,4.249364,17,86,Croatia - England. 2 - 1 (E),E2,Croatia,Kyle Walker,Defender,0,right CB
+263155881,Pass,Launch,Accurate,1,England,180.762028,4.249364,12,68,Croatia - England. 2 - 1 (E),E2,Croatia,Kyle Walker,Defender,0,right CB
+263155881,Pass,Launch,Accurate,2,England,180.762028,4.249364,17,86,Croatia - England. 2 - 1 (E),E2,Croatia,Kyle Walker,Defender,0,right CB
+263155882,Duel,Air duel,Lost,1,England,182.528265,2.483127,17,86,Croatia - England. 2 - 1 (E),E2,Croatia,Kieran Trippier,Defender,1,right MF
+263155882,Duel,Air duel,Lost,2,England,182.528265,2.483127,7,61,Croatia - England. 2 - 1 (E),E2,Croatia,Kieran Trippier,Defender,1,right MF
+263155882,Duel,Air duel,Not accurate,1,England,182.528265,2.483127,17,86,Croatia - England. 2 - 1 (E),E2,Croatia,Kieran Trippier,Defender,1,right MF
+263155882,Duel,Air duel,Not accurate,2,England,182.528265,2.483127,7,61,Croatia - England. 2 - 1 (E),E2,Croatia,Kieran Trippier,Defender,1,right MF
+263156204,Duel,Air duel,Assist,1,Croatia,182.528265,2.483127,83,14,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156204,Duel,Air duel,Assist,2,Croatia,182.528265,2.483127,93,39,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156204,Duel,Air duel,Won,1,Croatia,182.528265,2.483127,83,14,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156204,Duel,Air duel,Accurate,1,Croatia,182.528265,2.483127,83,14,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156204,Duel,Air duel,Won,2,Croatia,182.528265,2.483127,93,39,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156204,Duel,Air duel,Accurate,2,Croatia,182.528265,2.483127,93,39,Croatia - England. 2 - 1 (E),E2,Croatia,Ivan Perisic,Midfielder,1,left FW
+263156205,Shot,Shot,Goal,1,Croatia,185.011392,0,93,39,Croatia - England. 2 - 1 (E),E2,Croatia,Mario Mandzukic,Forward,1,central FW
+263156205,Shot,Shot,Goal,2,Croatia,185.011392,0,0,0,Croatia - England. 2 - 1 (E),E2,Croatia,Mario Mandzukic,Forward,1,central FW
