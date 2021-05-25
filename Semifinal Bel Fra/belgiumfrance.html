@@ -1,0 +1,41 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  
+  <!-- <script language="javascript" type="text/javascript" src="script.js"></script> -->
+  <!-- this line removes any default padding and style. you might only need one of these values set. -->
+  <script src="https://cdn.jsdelivr.net/npm/p5@1.3.1/lib/p5.js"></script>
+  <style>
+    body {background-color: 60;}
+    .slidecontainer {color:whitesmoke}
+    h1, h2, p {
+      color: whitesmoke;
+              font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .goal {margin-top: 450;}
+    .video {
+      margin-left: 650;
+      position: fixed;
+    }
+    </style>
+
+</head>
+
+
+<body>
+
+  <h1>FIFA World Cup 2018 Semifinal: France vs. Belgium: 1:0 </h1>
+
+  <div id="goal1">
+    <h2>France ⚽️ (1:0) 51' Umtiti</h2>
+    <div class="slidecontainer">
+      <input type="range" min="-180" max="0" value="50" class="slider" id="myRange">
+    </div>
+    <div class="video">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/YzXnSJl6zG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

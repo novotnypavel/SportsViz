@@ -1,0 +1,194 @@
+Event_Id,Event_Name,Sub_Event_Name,Event_Tag,Event_position,Event_Team,Event Sec,Sec_Before_Goal,X,Y,Match_Label,Match_Period,Match_Winner,Player_Name,Player_Role,Player_Goals_Scored,Player_Role_Calculated
+262979140,Duel,Ground defending duel,Take on left,1,Belgium,158.444759,177.825673,43,4,France - Belgium. 1 - 0,2H,France,Jan Vertonghen,Defender,0,left MF
+262979140,Duel,Ground defending duel,Take on left,2,Belgium,158.444759,177.825673,19,2,France - Belgium. 1 - 0,2H,France,Jan Vertonghen,Defender,0,left MF
+262979140,Duel,Ground defending duel,Neutral,1,Belgium,158.444759,177.825673,43,4,France - Belgium. 1 - 0,2H,France,Jan Vertonghen,Defender,0,left MF
+262979140,Duel,Ground defending duel,Accurate,1,Belgium,158.444759,177.825673,43,4,France - Belgium. 1 - 0,2H,France,Jan Vertonghen,Defender,0,left MF
+262979140,Duel,Ground defending duel,Neutral,2,Belgium,158.444759,177.825673,19,2,France - Belgium. 1 - 0,2H,France,Jan Vertonghen,Defender,0,left MF
+262979140,Duel,Ground defending duel,Accurate,2,Belgium,158.444759,177.825673,19,2,France - Belgium. 1 - 0,2H,France,Jan Vertonghen,Defender,0,left MF
+263395435,Duel,Ground attacking duel,Take on right,1,France,158.487267,177.783165,57,96,France - Belgium. 1 - 0,2H,France,Kylian Mbappe Lottin,Forward,0,right FW
+263395435,Duel,Ground attacking duel,Take on right,2,France,158.487267,177.783165,81,98,France - Belgium. 1 - 0,2H,France,Kylian Mbappe Lottin,Forward,0,right FW
+263395435,Duel,Ground attacking duel,Neutral,1,France,158.487267,177.783165,57,96,France - Belgium. 1 - 0,2H,France,Kylian Mbappe Lottin,Forward,0,right FW
+263395435,Duel,Ground attacking duel,Accurate,1,France,158.487267,177.783165,57,96,France - Belgium. 1 - 0,2H,France,Kylian Mbappe Lottin,Forward,0,right FW
+263395435,Duel,Ground attacking duel,Neutral,2,France,158.487267,177.783165,81,98,France - Belgium. 1 - 0,2H,France,Kylian Mbappe Lottin,Forward,0,right FW
+263395435,Duel,Ground attacking duel,Accurate,2,France,158.487267,177.783165,81,98,France - Belgium. 1 - 0,2H,France,Kylian Mbappe Lottin,Forward,0,right FW
+262918924,Duel,Ground loose ball duel,Won,1,Belgium,160.153353,176.117079,19,2,France - Belgium. 1 - 0,2H,France,Moussa Sidi Yaya Dembele,Midfielder,0,central MF
+262918924,Duel,Ground loose ball duel,Won,2,Belgium,160.153353,176.117079,25,2,France - Belgium. 1 - 0,2H,France,Moussa Sidi Yaya Dembele,Midfielder,0,central MF
+262918924,Duel,Ground loose ball duel,Accurate,1,Belgium,160.153353,176.117079,19,2,France - Belgium. 1 - 0,2H,France,Moussa Sidi Yaya Dembele,Midfielder,0,central MF
+262918924,Duel,Ground loose ball duel,Accurate,2,Belgium,160.153353,176.117079,25,2,France - Belgium. 1 - 0,2H,France,Moussa Sidi Yaya Dembele,Midfielder,0,central MF
+262918925,Pass,Simple pass,Accurate,1,Belgium,162.291752,173.97868,25,2,France - Belgium. 1 - 0,2H,France,Jan Vertonghen,Defender,0,left MF
+262918925,Pass,Simple pass,Accurate,2,Belgium,162.291752,173.97868,41,9,France - Belgium. 1 - 0,2H,France,Jan Vertonghen,Defender,0,left MF
+262918919,Duel,Ground defending duel,Take on right,1,France,165.55,170.720432,59,91,France - Belgium. 1 - 0,2H,France,Paul Pogba,Midfielder,0,central MF
+262918919,Duel,Ground defending duel,Take on right,2,France,165.55,170.720432,60,92,France - Belgium. 1 - 0,2H,France,Paul Pogba,Midfielder,0,central MF
+262918919,Duel,Ground defending duel,Lost,1,France,165.55,170.720432,59,91,France - Belgium. 1 - 0,2H,France,Paul Pogba,Midfielder,0,central MF
+262918919,Duel,Ground defending duel,Not accurate,1,France,165.55,170.720432,59,91,France - Belgium. 1 - 0,2H,France,Paul Pogba,Midfielder,0,central MF
+262918919,Duel,Ground defending duel,Lost,2,France,165.55,170.720432,60,92,France - Belgium. 1 - 0,2H,France,Paul Pogba,Midfielder,0,central MF
+262918919,Duel,Ground defending duel,Not accurate,2,France,165.55,170.720432,60,92,France - Belgium. 1 - 0,2H,France,Paul Pogba,Midfielder,0,central MF
+262918927,Duel,Ground attacking duel,Take on left,1,Belgium,166.15819,170.112242,41,9,France - Belgium. 1 - 0,2H,France,Eden Hazard,Forward,0,left FW
+262918927,Duel,Ground attacking duel,Take on left,2,Belgium,166.15819,170.112242,40,8,France - Belgium. 1 - 0,2H,France,Eden Hazard,Forward,0,left FW
+262918927,Duel,Ground attacking duel,Won,1,Belgium,166.15819,170.112242,41,9,France - Belgium. 1 - 0,2H,France,Eden Hazard,Forward,0,left FW
+262918927,Duel,Ground attacking duel,Accurate,1,Belgium,166.15819,170.112242,41,9,France - Belgium. 1 - 0,2H,France,Eden Hazard,Forward,0,left FW
+262918927,Duel,Ground attacking duel,Won,2,Belgium,166.15819,170.112242,40,8,France - Belgium. 1 - 0,2H,France,Eden Hazard,Forward,0,left FW
+262918927,Duel,Ground attacking duel,Accurate,2,Belgium,166.15819,170.112242,40,8,France - Belgium. 1 - 0,2H,France,Eden Hazard,Forward,0,left FW
+262918920,Foul,Foul,,1,France,167.778699,168.491733,60,92,France - Belgium. 1 - 0,2H,France,Paul Pogba,Midfielder,0,central MF
+262918920,Foul,Foul,,2,France,167.778699,168.491733,59,91,France - Belgium. 1 - 0,2H,France,Paul Pogba,Midfielder,0,central MF
+262918930,Free Kick,Free Kick,Accurate,1,Belgium,177.390356,158.880076,46,9,France - Belgium. 1 - 0,2H,France,Jan Vertonghen,Defender,0,left MF
+262918930,Free Kick,Free Kick,Accurate,2,Belgium,177.390356,158.880076,56,83,France - Belgium. 1 - 0,2H,France,Jan Vertonghen,Defender,0,left MF
+262918931,Pass,Simple pass,Accurate,1,Belgium,183.40953,152.860902,56,83,France - Belgium. 1 - 0,2H,France,Axel  Witsel,Midfielder,0,central MF
+262918931,Pass,Simple pass,Accurate,2,Belgium,183.40953,152.860902,57,64,France - Belgium. 1 - 0,2H,France,Axel  Witsel,Midfielder,0,central MF
+262918932,Pass,Simple pass,Accurate,1,Belgium,185.131353,151.139079,57,64,France - Belgium. 1 - 0,2H,France,Toby Alderweireld,Defender,0,right MF
+262918932,Pass,Simple pass,Accurate,2,Belgium,185.131353,151.139079,80,88,France - Belgium. 1 - 0,2H,France,Toby Alderweireld,Defender,0,right MF
+262918933,Duel,Ground attacking duel,Free space left,1,Belgium,189.37744,146.892992,80,88,France - Belgium. 1 - 0,2H,France,Nacer Chadli,Midfielder,0,right FW
+262918933,Duel,Ground attacking duel,Free space left,2,Belgium,189.37744,146.892992,70,74,France - Belgium. 1 - 0,2H,France,Nacer Chadli,Midfielder,0,right FW
+262918933,Duel,Ground attacking duel,Won,1,Belgium,189.37744,146.892992,80,88,France - Belgium. 1 - 0,2H,France,Nacer Chadli,Midfielder,0,right FW
+262918933,Duel,Ground attacking duel,Accurate,1,Belgium,189.37744,146.892992,80,88,France - Belgium. 1 - 0,2H,France,Nacer Chadli,Midfielder,0,right FW
+262918933,Duel,Ground attacking duel,Won,2,Belgium,189.37744,146.892992,70,74,France - Belgium. 1 - 0,2H,France,Nacer Chadli,Midfielder,0,right FW
+262918933,Duel,Ground attacking duel,Accurate,2,Belgium,189.37744,146.892992,70,74,France - Belgium. 1 - 0,2H,France,Nacer Chadli,Midfielder,0,right FW
+262918923,Duel,Ground defending duel,Free space right,1,France,189.563414,146.707018,20,12,France - Belgium. 1 - 0,2H,France,Lucas  Hernandez Pi,Defender,0,left MF
+262918923,Duel,Ground defending duel,Free space right,2,France,189.563414,146.707018,30,26,France - Belgium. 1 - 0,2H,France,Lucas  Hernandez Pi,Defender,0,left MF
+262918923,Duel,Ground defending duel,Lost,1,France,189.563414,146.707018,20,12,France - Belgium. 1 - 0,2H,France,Lucas  Hernandez Pi,Defender,0,left MF
+262918923,Duel,Ground defending duel,Not accurate,1,France,189.563414,146.707018,20,12,France - Belgium. 1 - 0,2H,France,Lucas  Hernandez Pi,Defender,0,left MF
+262918923,Duel,Ground defending duel,Lost,2,France,189.563414,146.707018,30,26,France - Belgium. 1 - 0,2H,France,Lucas  Hernandez Pi,Defender,0,left MF
+262918923,Duel,Ground defending duel,Not accurate,2,France,189.563414,146.707018,30,26,France - Belgium. 1 - 0,2H,France,Lucas  Hernandez Pi,Defender,0,left MF
+262918935,Pass,Smart pass,Accurate,1,Belgium,190.715838,145.554594,70,74,France - Belgium. 1 - 0,2H,France,Nacer Chadli,Midfielder,0,right FW
+262918935,Pass,Smart pass,Accurate,2,Belgium,190.715838,145.554594,88,71,France - Belgium. 1 - 0,2H,France,Nacer Chadli,Midfielder,0,right FW
+262918926,Duel,Ground defending duel,Neutral,1,France,192.337459,143.932973,12,29,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918926,Duel,Ground defending duel,Neutral,2,France,192.337459,143.932973,19,28,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918926,Duel,Ground defending duel,Accurate,1,France,192.337459,143.932973,12,29,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918926,Duel,Ground defending duel,Accurate,2,France,192.337459,143.932973,19,28,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918937,Duel,Ground attacking duel,Neutral,1,Belgium,192.669261,143.601171,88,71,France - Belgium. 1 - 0,2H,France,Kevin De Bruyne,Midfielder,0,central MF
+262918937,Duel,Ground attacking duel,Neutral,2,Belgium,192.669261,143.601171,81,72,France - Belgium. 1 - 0,2H,France,Kevin De Bruyne,Midfielder,0,central MF
+262918937,Duel,Ground attacking duel,Accurate,1,Belgium,192.669261,143.601171,88,71,France - Belgium. 1 - 0,2H,France,Kevin De Bruyne,Midfielder,0,central MF
+262918937,Duel,Ground attacking duel,Accurate,2,Belgium,192.669261,143.601171,81,72,France - Belgium. 1 - 0,2H,France,Kevin De Bruyne,Midfielder,0,central MF
+262918939,Pass,Simple pass,Accurate,1,Belgium,194.142438,142.127994,81,72,France - Belgium. 1 - 0,2H,France,Kevin De Bruyne,Midfielder,0,central MF
+262918939,Pass,Simple pass,Accurate,2,Belgium,194.142438,142.127994,75,71,France - Belgium. 1 - 0,2H,France,Kevin De Bruyne,Midfielder,0,central MF
+262918940,Pass,Cross,Right foot,1,Belgium,195.712198,140.558234,75,71,France - Belgium. 1 - 0,2H,France,Nacer Chadli,Midfielder,0,right FW
+262918940,Pass,Cross,Right foot,2,Belgium,195.712198,140.558234,90,36,France - Belgium. 1 - 0,2H,France,Nacer Chadli,Midfielder,0,right FW
+262918940,Pass,Cross,High,1,Belgium,195.712198,140.558234,75,71,France - Belgium. 1 - 0,2H,France,Nacer Chadli,Midfielder,0,right FW
+262918940,Pass,Cross,Accurate,1,Belgium,195.712198,140.558234,75,71,France - Belgium. 1 - 0,2H,France,Nacer Chadli,Midfielder,0,right FW
+262918940,Pass,Cross,High,2,Belgium,195.712198,140.558234,90,36,France - Belgium. 1 - 0,2H,France,Nacer Chadli,Midfielder,0,right FW
+262918940,Pass,Cross,Accurate,2,Belgium,195.712198,140.558234,90,36,France - Belgium. 1 - 0,2H,France,Nacer Chadli,Midfielder,0,right FW
+262918928,Duel,Air duel,Won,1,France,196.246957,140.023475,10,64,France - Belgium. 1 - 0,2H,France,Paul Pogba,Midfielder,0,central MF
+262918928,Duel,Air duel,Won,2,France,196.246957,140.023475,11,91,France - Belgium. 1 - 0,2H,France,Paul Pogba,Midfielder,0,central MF
+262918928,Duel,Air duel,Accurate,1,France,196.246957,140.023475,10,64,France - Belgium. 1 - 0,2H,France,Paul Pogba,Midfielder,0,central MF
+262918928,Duel,Air duel,Accurate,2,France,196.246957,140.023475,11,91,France - Belgium. 1 - 0,2H,France,Paul Pogba,Midfielder,0,central MF
+262918942,Duel,Air duel,Lost,1,Belgium,196.405362,139.86507,90,36,France - Belgium. 1 - 0,2H,France,Marouane Fellaini-Bakkioui,Midfielder,0,central MF
+262918942,Duel,Air duel,Lost,2,Belgium,196.405362,139.86507,89,9,France - Belgium. 1 - 0,2H,France,Marouane Fellaini-Bakkioui,Midfielder,0,central MF
+262918942,Duel,Air duel,Not accurate,1,Belgium,196.405362,139.86507,90,36,France - Belgium. 1 - 0,2H,France,Marouane Fellaini-Bakkioui,Midfielder,0,central MF
+262918942,Duel,Air duel,Not accurate,2,Belgium,196.405362,139.86507,89,9,France - Belgium. 1 - 0,2H,France,Marouane Fellaini-Bakkioui,Midfielder,0,central MF
+262918929,Pass,Launch,Not accurate,1,France,198.523027,137.747405,11,91,France - Belgium. 1 - 0,2H,France,Benjamin Pavard,Defender,0,right MF
+262918929,Pass,Launch,Not accurate,2,France,198.523027,137.747405,55,66,France - Belgium. 1 - 0,2H,France,Benjamin Pavard,Defender,0,right MF
+262918943,Pass,Simple pass,Accurate,1,Belgium,203.248185,133.022247,45,34,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918943,Pass,Simple pass,Accurate,2,Belgium,203.248185,133.022247,45,66,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918944,Pass,Simple pass,Accurate,1,Belgium,208.647609,127.622823,45,66,France - Belgium. 1 - 0,2H,France,Toby Alderweireld,Defender,0,right MF
+262918944,Pass,Simple pass,Accurate,2,Belgium,208.647609,127.622823,52,49,France - Belgium. 1 - 0,2H,France,Toby Alderweireld,Defender,0,right MF
+262918946,Pass,Simple pass,Accurate,1,Belgium,212.477355,123.793077,52,49,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918946,Pass,Simple pass,Accurate,2,Belgium,212.477355,123.793077,63,53,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918947,Pass,Simple pass,Accurate,1,Belgium,215.589277,120.681155,63,53,France - Belgium. 1 - 0,2H,France,Axel  Witsel,Midfielder,0,central MF
+262918947,Pass,Simple pass,Accurate,2,Belgium,215.589277,120.681155,51,50,France - Belgium. 1 - 0,2H,France,Axel  Witsel,Midfielder,0,central MF
+262918948,Pass,Simple pass,Accurate,1,Belgium,217.492584,118.777848,51,50,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918948,Pass,Simple pass,Accurate,2,Belgium,217.492584,118.777848,62,64,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918949,Pass,Simple pass,Accurate,1,Belgium,217.780138,118.490294,62,64,France - Belgium. 1 - 0,2H,France,Kevin De Bruyne,Midfielder,0,central MF
+262918949,Pass,Simple pass,Accurate,2,Belgium,217.780138,118.490294,53,49,France - Belgium. 1 - 0,2H,France,Kevin De Bruyne,Midfielder,0,central MF
+262918950,Pass,Simple pass,Accurate,1,Belgium,222.226767,114.043665,53,49,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918950,Pass,Simple pass,Accurate,2,Belgium,222.226767,114.043665,66,74,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918951,Pass,Simple pass,Accurate,1,Belgium,227.243636,109.026796,66,74,France - Belgium. 1 - 0,2H,France,Nacer Chadli,Midfielder,0,right FW
+262918951,Pass,Simple pass,Accurate,2,Belgium,227.243636,109.026796,61,76,France - Belgium. 1 - 0,2H,France,Nacer Chadli,Midfielder,0,right FW
+262918953,Pass,Simple pass,Accurate,1,Belgium,228.502728,107.767704,61,76,France - Belgium. 1 - 0,2H,France,Axel  Witsel,Midfielder,0,central MF
+262918953,Pass,Simple pass,Accurate,2,Belgium,228.502728,107.767704,54,66,France - Belgium. 1 - 0,2H,France,Axel  Witsel,Midfielder,0,central MF
+262918955,Pass,Simple pass,Accurate,1,Belgium,231.274477,104.995955,54,66,France - Belgium. 1 - 0,2H,France,Toby Alderweireld,Defender,0,right MF
+262918955,Pass,Simple pass,Accurate,2,Belgium,231.274477,104.995955,50,44,France - Belgium. 1 - 0,2H,France,Toby Alderweireld,Defender,0,right MF
+262918956,Pass,Simple pass,Accurate,1,Belgium,233.662077,102.608355,50,44,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918956,Pass,Simple pass,Accurate,2,Belgium,233.662077,102.608355,55,33,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918958,Pass,Simple pass,Accurate,1,Belgium,235.986662,100.28377,55,33,France - Belgium. 1 - 0,2H,France,Axel  Witsel,Midfielder,0,central MF
+262918958,Pass,Simple pass,Accurate,2,Belgium,235.986662,100.28377,51,18,France - Belgium. 1 - 0,2H,France,Axel  Witsel,Midfielder,0,central MF
+262918960,Pass,Simple pass,Accurate,1,Belgium,239.595786,96.674646,51,18,France - Belgium. 1 - 0,2H,France,Jan Vertonghen,Defender,0,left MF
+262918960,Pass,Simple pass,Accurate,2,Belgium,239.595786,96.674646,54,45,France - Belgium. 1 - 0,2H,France,Jan Vertonghen,Defender,0,left MF
+262918961,Pass,Simple pass,Accurate,1,Belgium,242.153579,94.116853,54,45,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918961,Pass,Simple pass,Accurate,2,Belgium,242.153579,94.116853,52,76,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918965,Others on the ball,Touch,,1,Belgium,244.01355,92.256882,52,76,France - Belgium. 1 - 0,2H,France,Toby Alderweireld,Defender,0,right MF
+262918965,Others on the ball,Touch,,2,Belgium,244.01355,92.256882,62,77,France - Belgium. 1 - 0,2H,France,Toby Alderweireld,Defender,0,right MF
+262918964,Pass,High pass,Through,1,Belgium,246.618338,89.652094,62,77,France - Belgium. 1 - 0,2H,France,Toby Alderweireld,Defender,0,right MF
+262918964,Pass,High pass,Through,2,Belgium,246.618338,89.652094,82,41,France - Belgium. 1 - 0,2H,France,Toby Alderweireld,Defender,0,right MF
+262918964,Pass,High pass,Not accurate,1,Belgium,246.618338,89.652094,62,77,France - Belgium. 1 - 0,2H,France,Toby Alderweireld,Defender,0,right MF
+262918964,Pass,High pass,Not accurate,2,Belgium,246.618338,89.652094,82,41,France - Belgium. 1 - 0,2H,France,Toby Alderweireld,Defender,0,right MF
+262918938,Pass,Head pass,Interception,1,France,247.533685,88.736747,18,59,France - Belgium. 1 - 0,2H,France,Raphael Varane,Defender,0,right CB
+262918938,Pass,Head pass,Interception,2,France,247.533685,88.736747,31,56,France - Belgium. 1 - 0,2H,France,Raphael Varane,Defender,0,right CB
+262918938,Pass,Head pass,Not accurate,1,France,247.533685,88.736747,18,59,France - Belgium. 1 - 0,2H,France,Raphael Varane,Defender,0,right CB
+262918938,Pass,Head pass,Not accurate,2,France,247.533685,88.736747,31,56,France - Belgium. 1 - 0,2H,France,Raphael Varane,Defender,0,right CB
+262918968,Duel,Ground attacking duel,Interception,1,Belgium,249.741988,86.528444,69,44,France - Belgium. 1 - 0,2H,France,Axel  Witsel,Midfielder,0,central MF
+262918968,Duel,Ground attacking duel,Interception,2,Belgium,249.741988,86.528444,79,51,France - Belgium. 1 - 0,2H,France,Axel  Witsel,Midfielder,0,central MF
+262918968,Duel,Ground attacking duel,Won,1,Belgium,249.741988,86.528444,69,44,France - Belgium. 1 - 0,2H,France,Axel  Witsel,Midfielder,0,central MF
+262918968,Duel,Ground attacking duel,Accurate,1,Belgium,249.741988,86.528444,69,44,France - Belgium. 1 - 0,2H,France,Axel  Witsel,Midfielder,0,central MF
+262918968,Duel,Ground attacking duel,Won,2,Belgium,249.741988,86.528444,79,51,France - Belgium. 1 - 0,2H,France,Axel  Witsel,Midfielder,0,central MF
+262918968,Duel,Ground attacking duel,Accurate,2,Belgium,249.741988,86.528444,79,51,France - Belgium. 1 - 0,2H,France,Axel  Witsel,Midfielder,0,central MF
+262918941,Duel,Ground defending duel,Lost,1,France,250.002355,86.268077,31,56,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262918941,Duel,Ground defending duel,Lost,2,France,250.002355,86.268077,21,49,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262918941,Duel,Ground defending duel,Not accurate,1,France,250.002355,86.268077,31,56,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262918941,Duel,Ground defending duel,Not accurate,2,France,250.002355,86.268077,21,49,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262918970,Pass,Smart pass,Through,1,Belgium,251.421808,84.848624,79,51,France - Belgium. 1 - 0,2H,France,Kevin De Bruyne,Midfielder,0,central MF
+262918970,Pass,Smart pass,Through,2,Belgium,251.421808,84.848624,83,59,France - Belgium. 1 - 0,2H,France,Kevin De Bruyne,Midfielder,0,central MF
+262918970,Pass,Smart pass,Not accurate,1,Belgium,251.421808,84.848624,79,51,France - Belgium. 1 - 0,2H,France,Kevin De Bruyne,Midfielder,0,central MF
+262918970,Pass,Smart pass,Not accurate,2,Belgium,251.421808,84.848624,83,59,France - Belgium. 1 - 0,2H,France,Kevin De Bruyne,Midfielder,0,central MF
+262918945,Others on the ball,Clearance,Interception,1,France,253.647871,82.622561,17,41,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918945,Others on the ball,Clearance,Interception,2,France,253.647871,82.622561,13,39,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918945,Others on the ball,Clearance,Not accurate,1,France,253.647871,82.622561,17,41,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918945,Others on the ball,Clearance,Not accurate,2,France,253.647871,82.622561,13,39,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918975,Others on the ball,Touch,Interception,1,Belgium,255.998101,80.272331,87,61,France - Belgium. 1 - 0,2H,France,Kevin De Bruyne,Midfielder,0,central MF
+262918975,Others on the ball,Touch,Interception,2,Belgium,255.998101,80.272331,100,67,France - Belgium. 1 - 0,2H,France,Kevin De Bruyne,Midfielder,0,central MF
+262918952,Free Kick,Goal kick,,1,France,275.249313,61.021119,0,0,France - Belgium. 1 - 0,2H,France,Hugo Lloris,Goalkeeper,0,Goalkeeper
+262918952,Free Kick,Goal kick,,2,France,275.249313,61.021119,23,16,France - Belgium. 1 - 0,2H,France,Hugo Lloris,Goalkeeper,0,Goalkeeper
+262918954,Pass,Simple pass,Accurate,1,France,278.729058,57.541374,23,16,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918954,Pass,Simple pass,Accurate,2,France,278.729058,57.541374,30,19,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918957,Pass,Simple pass,Accurate,1,France,279.349046,56.921386,30,19,France - Belgium. 1 - 0,2H,France,Blaise Matuidi,Midfielder,0,left MF
+262918957,Pass,Simple pass,Accurate,2,France,279.349046,56.921386,22,19,France - Belgium. 1 - 0,2H,France,Blaise Matuidi,Midfielder,0,left MF
+262918959,Pass,Simple pass,Accurate,1,France,281.916241,54.354191,22,19,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918959,Pass,Simple pass,Accurate,2,France,281.916241,54.354191,8,41,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918962,Pass,Simple pass,Accurate,1,France,284.663701,51.606731,8,41,France - Belgium. 1 - 0,2H,France,Hugo Lloris,Goalkeeper,0,Goalkeeper
+262918962,Pass,Simple pass,Accurate,2,France,284.663701,51.606731,32,78,France - Belgium. 1 - 0,2H,France,Hugo Lloris,Goalkeeper,0,Goalkeeper
+262918963,Pass,Simple pass,Accurate,1,France,288.55872,47.711712,32,78,France - Belgium. 1 - 0,2H,France,Raphael Varane,Defender,0,right CB
+262918963,Pass,Simple pass,Accurate,2,France,288.55872,47.711712,34,60,France - Belgium. 1 - 0,2H,France,Raphael Varane,Defender,0,right CB
+262918966,Pass,Simple pass,Accurate,1,France,293.119569,43.150863,34,60,France - Belgium. 1 - 0,2H,France,N'Golo Kante,Midfielder,0,central MF
+262918966,Pass,Simple pass,Accurate,2,France,293.119569,43.150863,32,30,France - Belgium. 1 - 0,2H,France,N'Golo Kante,Midfielder,0,central MF
+262918967,Pass,Simple pass,Accurate,1,France,296.252103,40.018329,32,30,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918967,Pass,Simple pass,Accurate,2,France,296.252103,40.018329,62,6,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918969,Pass,Simple pass,Accurate,1,France,297.398289,38.872143,62,6,France - Belgium. 1 - 0,2H,France,Lucas  Hernandez Pi,Defender,0,left MF
+262918969,Pass,Simple pass,Accurate,2,France,297.398289,38.872143,87,26,France - Belgium. 1 - 0,2H,France,Lucas  Hernandez Pi,Defender,0,left MF
+262918973,Pass,Simple pass,Accurate,1,France,300.399799,35.870633,87,26,France - Belgium. 1 - 0,2H,France,Blaise Matuidi,Midfielder,0,left MF
+262918973,Pass,Simple pass,Accurate,2,France,300.399799,35.870633,90,40,France - Belgium. 1 - 0,2H,France,Blaise Matuidi,Midfielder,0,left MF
+262918977,Duel,Ground attacking duel,Free space right,1,France,302.21031,34.060122,90,40,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262918977,Duel,Ground attacking duel,Free space right,2,France,302.21031,34.060122,88,39,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262918977,Duel,Ground attacking duel,Won,1,France,302.21031,34.060122,90,40,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262918977,Duel,Ground attacking duel,Accurate,1,France,302.21031,34.060122,90,40,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262918977,Duel,Ground attacking duel,Won,2,France,302.21031,34.060122,88,39,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262918977,Duel,Ground attacking duel,Accurate,2,France,302.21031,34.060122,88,39,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262918985,Duel,Ground defending duel,Free space left,1,Belgium,302.393239,33.877193,10,60,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918985,Duel,Ground defending duel,Free space left,2,Belgium,302.393239,33.877193,12,61,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918985,Duel,Ground defending duel,Lost,1,Belgium,302.393239,33.877193,10,60,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918985,Duel,Ground defending duel,Not accurate,1,Belgium,302.393239,33.877193,10,60,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918985,Duel,Ground defending duel,Lost,2,Belgium,302.393239,33.877193,12,61,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918985,Duel,Ground defending duel,Not accurate,2,Belgium,302.393239,33.877193,12,61,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262970624,Shot,Shot,Right foot,1,France,302.735838,33.534594,88,39,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262970624,Shot,Shot,Right foot,2,France,302.735838,33.534594,0,0,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262970624,Shot,Shot,Blocked,1,France,302.735838,33.534594,88,39,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262970624,Shot,Shot,Opportunity,1,France,302.735838,33.534594,88,39,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262970624,Shot,Shot,Not accurate,1,France,302.735838,33.534594,88,39,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262970624,Shot,Shot,Blocked,2,France,302.735838,33.534594,0,0,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262970624,Shot,Shot,Opportunity,2,France,302.735838,33.534594,0,0,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262970624,Shot,Shot,Not accurate,2,France,302.735838,33.534594,0,0,France - Belgium. 1 - 0,2H,France,Olivier Giroud,Forward,0,central FW
+262918987,Others on the ball,Touch,Interception,1,Belgium,303.951718,32.318714,10,55,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918987,Others on the ball,Touch,Interception,2,Belgium,303.951718,32.318714,0,37,France - Belgium. 1 - 0,2H,France,Vincent Kompany,Defender,0,central MF-left CB
+262918982,Free Kick,Corner,Assist,1,France,334.496557,1.773875,100,100,France - Belgium. 1 - 0,2H,France,Antoine Griezmann,Forward,0,central FW
+262918982,Free Kick,Corner,Assist,2,France,334.496557,1.773875,95,63,France - Belgium. 1 - 0,2H,France,Antoine Griezmann,Forward,0,central FW
+262918982,Free Kick,Corner,High,1,France,334.496557,1.773875,100,100,France - Belgium. 1 - 0,2H,France,Antoine Griezmann,Forward,0,central FW
+262918982,Free Kick,Corner,Accurate,1,France,334.496557,1.773875,100,100,France - Belgium. 1 - 0,2H,France,Antoine Griezmann,Forward,0,central FW
+262918982,Free Kick,Corner,High,2,France,334.496557,1.773875,95,63,France - Belgium. 1 - 0,2H,France,Antoine Griezmann,Forward,0,central FW
+262918982,Free Kick,Corner,Accurate,2,France,334.496557,1.773875,95,63,France - Belgium. 1 - 0,2H,France,Antoine Griezmann,Forward,0,central FW
+262918989,Duel,Air duel,Lost,1,Belgium,335.240263,1.030169,5,37,France - Belgium. 1 - 0,2H,France,Marouane Fellaini-Bakkioui,Midfielder,0,central MF
+262918989,Duel,Air duel,Lost,2,Belgium,335.240263,1.030169,6,35,France - Belgium. 1 - 0,2H,France,Marouane Fellaini-Bakkioui,Midfielder,0,central MF
+262918989,Duel,Air duel,Not accurate,1,Belgium,335.240263,1.030169,5,37,France - Belgium. 1 - 0,2H,France,Marouane Fellaini-Bakkioui,Midfielder,0,central MF
+262918989,Duel,Air duel,Not accurate,2,Belgium,335.240263,1.030169,6,35,France - Belgium. 1 - 0,2H,France,Marouane Fellaini-Bakkioui,Midfielder,0,central MF
+262918984,Duel,Air duel,Won,1,France,335.640221,0.630211,95,63,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918984,Duel,Air duel,Won,2,France,335.640221,0.630211,94,65,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918984,Duel,Air duel,Accurate,1,France,335.640221,0.630211,95,63,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918984,Duel,Air duel,Accurate,2,France,335.640221,0.630211,94,65,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
+262918986,Shot,Shot,Goal,1,France,336.270432,0,94,65,France - Belgium. 1 - 0,2H,France,Samuel Yves Umtiti,Defender,1,left CB
