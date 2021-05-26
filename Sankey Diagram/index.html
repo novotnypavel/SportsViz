@@ -1,0 +1,783 @@
+<!DOCTYPE html><html lang="en"><head>
+    <script src="p5.js"></script>
+    <script src="p5.sound.min.js"></script>
+    <script src="anychart-core.min.js"></script>
+    <script src="anychart-sankey.min.js"></script>
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    
+    <meta charset="utf-8">
+
+  </head>
+  <body>
+    <h1>Sankey Diagram of events per player</h1>
+    <h3>Coded in JS, based on hard coded data</h3>
+    <script src="sketch.js"></script>
+
+    <div id="container"></div>
+    <script>
+        anychart.onDocumentReady(function() {
+            //creating the data
+            var data = [{
+                from: 'Axel  Witsel',
+                to: 'Duel',
+                weight: 17
+            }, {
+                from: 'Axel  Witsel',
+                to: 'Foul',
+                weight: 0
+            }, {
+                from: 'Axel  Witsel',
+                to: 'Free Kick',
+                weight: 3
+            }, {
+                from: 'Axel  Witsel',
+                to: 'Goalkeeper leaving line',
+                weight: 0
+            }, {
+                from: 'Axel  Witsel',
+                to: 'Offside',
+                weight: 0
+            }, {
+                from: 'Axel  Witsel',
+                to: 'Others on the ball',
+                weight: 9
+            }, {
+                from: 'Axel  Witsel',
+                to: 'Pass',
+                weight: 37
+            }, {
+                from: 'Axel  Witsel',
+                to: 'Save attempt',
+                weight: 0
+            }, {
+                from: 'Axel  Witsel',
+                to: 'Shot',
+                weight: 0
+            }, {
+                from: 'Eden Hazard',
+                to: 'Duel',
+                weight: 42
+            }, {
+                from: 'Eden Hazard',
+                to: 'Foul',
+                weight: 4
+            }, {
+                from: 'Eden Hazard',
+                to: 'Free Kick',
+                weight: 0
+            }, {
+                from: 'Eden Hazard',
+                to: 'Goalkeeper leaving line',
+                weight: 0
+            }, {
+                from: 'Eden Hazard',
+                to: 'Offside',
+                weight: 0
+            }, {
+                from: 'Eden Hazard',
+                to: 'Others on the ball',
+                weight: 12
+            }, {
+                from: 'Eden Hazard',
+                to: 'Pass',
+                weight: 32
+            }, {
+                from: 'Eden Hazard',
+                to: 'Save attempt',
+                weight: 0
+            }, {
+                from: 'Eden Hazard',
+                to: 'Shot',
+                weight: 2
+            }, {
+                from: 'Jan Vertonghen',
+                to: 'Duel',
+                weight: 18
+            }, {
+                from: 'Jan Vertonghen',
+                to: 'Foul',
+                weight: 1
+            }, {
+                from: 'Jan Vertonghen',
+                to: 'Free Kick',
+                weight: 7
+            }, {
+                from: 'Jan Vertonghen',
+                to: 'Goalkeeper leaving line',
+                weight: 0
+            }, {
+                from: 'Jan Vertonghen',
+                to: 'Offside',
+                weight: 0
+            }, {
+                from: 'Jan Vertonghen',
+                to: 'Others on the ball',
+                weight: 3
+            }, {
+                from: 'Jan Vertonghen',
+                to: 'Pass',
+                weight: 40
+            }, {
+                from: 'Jan Vertonghen',
+                to: 'Save attempt',
+                weight: 0
+            }, {
+                from: 'Jan Vertonghen',
+                to: 'Shot',
+                weight: 0
+            }, {
+                from: 'Kevin De Bruyne',
+                to: 'Duel',
+                weight: 15
+            }, {
+                from: 'Kevin De Bruyne',
+                to: 'Foul',
+                weight: 0
+            }, {
+                from: 'Kevin De Bruyne',
+                to: 'Free Kick',
+                weight: 5
+            }, {
+                from: 'Kevin De Bruyne',
+                to: 'Goalkeeper leaving line',
+                weight: 0
+            }, {
+                from: 'Kevin De Bruyne',
+                to: 'Offside',
+                weight: 0
+            }, {
+                from: 'Kevin De Bruyne',
+                to: 'Others on the ball',
+                weight: 4
+            }, {
+                from: 'Kevin De Bruyne',
+                to: 'Pass',
+                weight: 36
+            }, {
+                from: 'Kevin De Bruyne',
+                to: 'Save attempt',
+                weight: 0
+            }, {
+                from: 'Kevin De Bruyne',
+                to: 'Shot',
+                weight: 2
+            }, {
+                from: 'Marouane Fellaini-Bakkioui',
+                to: 'Duel',
+                weight: 38
+            }, {
+                from: 'Marouane Fellaini-Bakkioui',
+                to: 'Foul',
+                weight: 5
+            }, {
+                from: 'Marouane Fellaini-Bakkioui',
+                to: 'Free Kick',
+                weight: 0
+            }, {
+                from: 'Marouane Fellaini-Bakkioui',
+                to: 'Goalkeeper leaving line',
+                weight: 0
+            }, {
+                from: 'Marouane Fellaini-Bakkioui',
+                to: 'Offside',
+                weight: 0
+            }, {
+                from: 'Marouane Fellaini-Bakkioui',
+                to: 'Others on the ball',
+                weight: 8
+            }, {
+                from: 'Marouane Fellaini-Bakkioui',
+                to: 'Pass',
+                weight: 30
+            }, {
+                from: 'Marouane Fellaini-Bakkioui',
+                to: 'Save attempt',
+                weight: 0
+            }, {
+                from: 'Marouane Fellaini-Bakkioui',
+                to: 'Shot',
+                weight: 1
+            }, {
+                from: 'Nacer Chadli',
+                to: 'Duel',
+                weight: 11
+            }, {
+                from: 'Nacer Chadli',
+                to: 'Foul',
+                weight: 0
+            }, {
+                from: 'Nacer Chadli',
+                to: 'Free Kick',
+                weight: 7
+            }, {
+                from: 'Nacer Chadli',
+                to: 'Goalkeeper leaving line',
+                weight: 0
+            }, {
+                from: 'Nacer Chadli',
+                to: 'Offside',
+                weight: 0
+            }, {
+                from: 'Nacer Chadli',
+                to: 'Others on the ball',
+                weight: 6
+            }, {
+                from: 'Nacer Chadli',
+                to: 'Pass',
+                weight: 26
+            }, {
+                from: 'Nacer Chadli',
+                to: 'Save attempt',
+                weight: 0
+            }, {
+                from: 'Nacer Chadli',
+                to: 'Shot',
+                weight: 1
+            }, {
+                from: 'Romelu Lukaku Menama',
+                to: 'Duel',
+                weight: 21
+            }, {
+                from: 'Romelu Lukaku Menama',
+                to: 'Foul',
+                weight: 3
+            }, {
+                from: 'Romelu Lukaku Menama',
+                to: 'Free Kick',
+                weight: 0
+            }, {
+                from: 'Romelu Lukaku Menama',
+                to: 'Goalkeeper leaving line',
+                weight: 0
+            }, {
+                from: 'Romelu Lukaku Menama',
+                to: 'Offside',
+                weight: 0
+            }, {
+                from: 'Romelu Lukaku Menama',
+                to: 'Others on the ball',
+                weight: 5
+            }, {
+                from: 'Romelu Lukaku Menama',
+                to: 'Pass',
+                weight: 12
+            }, {
+                from: 'Romelu Lukaku Menama',
+                to: 'Save attempt',
+                weight: 0
+            }, {
+                from: 'Romelu Lukaku Menama',
+                to: 'Shot',
+                weight: 0
+            }, {
+                from: 'Thibaut Courtois',
+                to: 'Duel',
+                weight: 0
+            }, {
+                from: 'Thibaut Courtois',
+                to: 'Foul',
+                weight: 0
+            }, {
+                from: 'Thibaut Courtois',
+                to: 'Free Kick',
+                weight: 11
+            }, {
+                from: 'Thibaut Courtois',
+                to: 'Goalkeeper leaving line',
+                weight: 1
+            }, {
+                from: 'Thibaut Courtois',
+                to: 'Offside',
+                weight: 0
+            }, {
+                from: 'Thibaut Courtois',
+                to: 'Others on the ball',
+                weight: 3
+            }, {
+                from: 'Thibaut Courtois',
+                to: 'Pass',
+                weight: 21
+            }, {
+                from: 'Thibaut Courtois',
+                to: 'Save attempt',
+                weight: 9
+            }, {
+                from: 'Thibaut Courtois',
+                to: 'Shot',
+                weight: 0
+            }, {
+                from: 'Thomas Meunier',
+                to: 'Duel',
+                weight: 18
+            }, {
+                from: 'Thomas Meunier',
+                to: 'Foul',
+                weight: 1
+            }, {
+                from: 'Thomas Meunier',
+                to: 'Free Kick',
+                weight: 5
+            }, {
+                from: 'Thomas Meunier',
+                to: 'Goalkeeper leaving line',
+                weight: 0
+            }, {
+                from: 'Thomas Meunier',
+                to: 'Offside',
+                weight: 0
+            }, {
+                from: 'Thomas Meunier',
+                to: 'Others on the ball',
+                weight: 10
+            }, {
+                from: 'Thomas Meunier',
+                to: 'Pass',
+                weight: 26
+            }, {
+                from: 'Thomas Meunier',
+                to: 'Save attempt',
+                weight: 0
+            }, {
+                from: 'Thomas Meunier',
+                to: 'Shot',
+                weight: 0
+            }, {
+                from: 'Thomas Vermaelen',
+                to: 'Duel',
+                weight: 1
+            }, {
+                from: 'Thomas Vermaelen',
+                to: 'Foul',
+                weight: 0
+            }, {
+                from: 'Thomas Vermaelen',
+                to: 'Free Kick',
+                weight: 0
+            }, {
+                from: 'Thomas Vermaelen',
+                to: 'Goalkeeper leaving line',
+                weight: 0
+            }, {
+                from: 'Thomas Vermaelen',
+                to: 'Offside',
+                weight: 0
+            }, {
+                from: 'Thomas Vermaelen',
+                to: 'Others on the ball',
+                weight: 0
+            }, {
+                from: 'Thomas Vermaelen',
+                to: 'Pass',
+                weight: 6
+            }, {
+                from: 'Thomas Vermaelen',
+                to: 'Save attempt',
+                weight: 0
+            }, {
+                from: 'Thomas Vermaelen',
+                to: 'Shot',
+                weight: 0
+            }, {
+                from: 'Toby Alderweireld',
+                to: 'Duel',
+                weight: 11
+            }, {
+                from: 'Toby Alderweireld',
+                to: 'Foul',
+                weight: 2
+            }, {
+                from: 'Toby Alderweireld',
+                to: 'Free Kick',
+                weight: 0
+            }, {
+                from: 'Toby Alderweireld',
+                to: 'Goalkeeper leaving line',
+                weight: 0
+            }, {
+                from: 'Toby Alderweireld',
+                to: 'Offside',
+                weight: 0
+            }, {
+                from: 'Toby Alderweireld',
+                to: 'Others on the ball',
+                weight: 10
+            }, {
+                from: 'Toby Alderweireld',
+                to: 'Pass',
+                weight: 33
+            }, {
+                from: 'Toby Alderweireld',
+                to: 'Save attempt',
+                weight: 0
+            }, {
+                from: 'Toby Alderweireld',
+                to: 'Shot',
+                weight: 0
+            }, {
+                from: 'Vincent Kompany',
+                to: 'Duel',
+                weight: 9
+            }, {
+                from: 'Vincent Kompany',
+                to: 'Foul',
+                weight: 0
+            }, {
+                from: 'Vincent Kompany',
+                to: 'Free Kick',
+                weight: 2
+            }, {
+                from: 'Vincent Kompany',
+                to: 'Goalkeeper leaving line',
+                weight: 0
+            }, {
+                from: 'Vincent Kompany',
+                to: 'Offside',
+                weight: 0
+            }, {
+                from: 'Vincent Kompany',
+                to: 'Others on the ball',
+                weight: 8
+            }, {
+                from: 'Vincent Kompany',
+                to: 'Pass',
+                weight: 48
+            }, {
+                from: 'Vincent Kompany',
+                to: 'Save attempt',
+                weight: 0
+            }, {
+                from: 'Vincent Kompany',
+                to: 'Shot',
+                weight: 1
+            }, {
+                from: 'Youri Tielemans',
+                to: 'Duel',
+                weight: 2
+            }, {
+                from: 'Youri Tielemans',
+                to: 'Foul',
+                weight: 0
+            }, {
+                from: 'Youri Tielemans',
+                to: 'Free Kick',
+                weight: 0
+            }, {
+                from: 'Youri Tielemans',
+                to: 'Goalkeeper leaving line',
+                weight: 0
+            }, {
+                from: 'Youri Tielemans',
+                to: 'Offside',
+                weight: 0
+            }, {
+                from: 'Youri Tielemans',
+                to: 'Others on the ball',
+                weight: 0
+            }, {
+                from: 'Youri Tielemans',
+                to: 'Pass',
+                weight: 1
+            }, {
+                from: 'Youri Tielemans',
+                to: 'Save attempt',
+                weight: 0
+            }, {
+                from: 'Youri Tielemans',
+                to: 'Shot',
+                weight: 0
+            }, {
+                from: 'Duel',
+                to: 'Douglas  Costa De Souza',
+                weight: 11
+            }, {
+                from: 'Duel',
+                to: 'Fagner Conserva Lemos',
+                weight: 19
+            }, {
+                from: 'Duel',
+                to: 'Fernando Luiz Rosa',
+                weight: 22
+            }, {
+                from: 'Duel',
+                to: 'Gabriel Fernando De Jesus',
+                weight: 13
+            }, {
+                from: 'Duel',
+                to: 'Joao Miranda De Souza Filho',
+                weight: 25
+            }, {
+                from: 'Duel',
+                to: 'Jose Paulo Bezzera Maciel Junior',
+                weight: 13
+            }, {
+                from: 'Duel',
+                to: 'Marcelo Vieira Da Silva Junior',
+                weight: 12
+            }, {
+                from: 'Duel',
+                to: 'Neymar Da Silva Santos Junior',
+                weight: 28
+            }, {
+                from: 'Duel',
+                to: 'Philippe Coutinho Correia',
+                weight: 16
+            }, {
+                from: 'Duel',
+                to: 'Renato  Soares De Oliveira Augusto',
+                weight: 3
+            }, {
+                from: 'Duel',
+                to: 'Roberto Firmino Barbosa De Oliveira',
+                weight: 13
+            }, {
+                from: 'Duel',
+                to: 'Thiago Emiliano Da Silva',
+                weight: 5
+            }, {
+                from: 'Duel',
+                to: 'Willian Borges Da Silva',
+                weight: 12
+            }, {
+                from: 'Foul',
+                to: 'Fagner Conserva Lemos',
+                weight: 3
+            }, {
+                from: 'Foul',
+                to: 'Fernando Luiz Rosa',
+                weight: 2
+            }, {
+                from: 'Foul',
+                to: 'Gabriel Fernando De Jesus',
+                weight: 1
+            }, {
+                from: 'Foul',
+                to: 'Joao Miranda De Souza Filho',
+                weight: 3
+            }, {
+                from: 'Foul',
+                to: 'Jose Paulo Bezzera Maciel Junior',
+                weight: 2
+            }, {
+                from: 'Foul',
+                to: 'Marcelo Vieira Da Silva Junior',
+                weight: 1
+            }, {
+                from: 'Foul',
+                to: 'Roberto Firmino Barbosa De Oliveira',
+                weight: 1
+            }, {
+                from: 'Foul',
+                to: 'Willian Borges Da Silva',
+                weight: 1
+            }, {
+                from: 'Free Kick',
+                to: 'Alisson Ramses Becker',
+                weight: 5
+            }, {
+                from: 'Free Kick',
+                to: 'Fagner Conserva Lemos',
+                weight: 4
+            }, {
+                from: 'Free Kick',
+                to: 'Joao Miranda De Souza Filho',
+                weight: 4
+            }, {
+                from: 'Free Kick',
+                to: 'Marcelo Vieira Da Silva Junior',
+                weight: 8
+            }, {
+                from: 'Free Kick',
+                to: 'Neymar Da Silva Santos Junior',
+                weight: 6
+            }, {
+                from: 'Free Kick',
+                to: 'Philippe Coutinho Correia',
+                weight: 1
+            }, {
+                from: 'Free Kick',
+                to: 'Thiago Emiliano Da Silva',
+                weight: 1
+            }, {
+                from: 'Free Kick',
+                to: 'Willian Borges Da Silva',
+                weight: 3
+            }, {
+                from: 'Offside',
+                to: 'Neymar Da Silva Santos Junior',
+                weight: 1
+            }, {
+                from: 'Others on the ball',
+                to: 'Alisson Ramses Becker',
+                weight: 1
+            }, {
+                from: 'Others on the ball',
+                to: 'Douglas  Costa De Souza',
+                weight: 11
+            }, {
+                from: 'Others on the ball',
+                to: 'Fagner Conserva Lemos',
+                weight: 3
+            }, {
+                from: 'Others on the ball',
+                to: 'Fernando Luiz Rosa',
+                weight: 6
+            }, {
+                from: 'Others on the ball',
+                to: 'Gabriel Fernando De Jesus',
+                weight: 3
+            }, {
+                from: 'Others on the ball',
+                to: 'Joao Miranda De Souza Filho',
+                weight: 10
+            }, {
+                from: 'Others on the ball',
+                to: 'Jose Paulo Bezzera Maciel Junior',
+                weight: 2
+            }, {
+                from: 'Others on the ball',
+                to: 'Marcelo Vieira Da Silva Junior',
+                weight: 10
+            }, {
+                from: 'Others on the ball',
+                to: 'Neymar Da Silva Santos Junior',
+                weight: 17
+            }, {
+                from: 'Others on the ball',
+                to: 'Philippe Coutinho Correia',
+                weight: 20
+            }, {
+                from: 'Others on the ball',
+                to: 'Renato  Soares De Oliveira Augusto',
+                weight: 4
+            }, {
+                from: 'Others on the ball',
+                to: 'Roberto Firmino Barbosa De Oliveira',
+                weight: 3
+            }, {
+                from: 'Others on the ball',
+                to: 'Thiago Emiliano Da Silva',
+                weight: 12
+            }, {
+                from: 'Others on the ball',
+                to: 'Willian Borges Da Silva',
+                weight: 4
+            }, {
+                from: 'Pass',
+                to: 'Alisson Ramses Becker',
+                weight: 6
+            }, {
+                from: 'Pass',
+                to: 'Douglas  Costa De Souza',
+                weight: 16
+            }, {
+                from: 'Pass',
+                to: 'Fagner Conserva Lemos',
+                weight: 35
+            }, {
+                from: 'Pass',
+                to: 'Fernando Luiz Rosa',
+                weight: 59
+            }, {
+                from: 'Pass',
+                to: 'Gabriel Fernando De Jesus',
+                weight: 10
+            }, {
+                from: 'Pass',
+                to: 'Joao Miranda De Souza Filho',
+                weight: 39
+            }, {
+                from: 'Pass',
+                to: 'Jose Paulo Bezzera Maciel Junior',
+                weight: 31
+            }, {
+                from: 'Pass',
+                to: 'Marcelo Vieira Da Silva Junior',
+                weight: 73
+            }, {
+                from: 'Pass',
+                to: 'Neymar Da Silva Santos Junior',
+                weight: 53
+            }, {
+                from: 'Pass',
+                to: 'Philippe Coutinho Correia',
+                weight: 77
+            }, {
+                from: 'Pass',
+                to: 'Renato  Soares De Oliveira Augusto',
+                weight: 9
+            }, {
+                from: 'Pass',
+                to: 'Roberto Firmino Barbosa De Oliveira',
+                weight: 20
+            }, {
+                from: 'Pass',
+                to: 'Thiago Emiliano Da Silva',
+                weight: 54
+            }, {
+                from: 'Pass',
+                to: 'Willian Borges Da Silva',
+                weight: 16
+            }, {
+                from: 'Save attempt',
+                to: 'Alisson Ramses Becker',
+                weight: 4
+            }, {
+                from: 'Shot',
+                to: 'Douglas  Costa De Souza',
+                weight: 4
+            }, {
+                from: 'Shot',
+                to: 'Fernando Luiz Rosa',
+                weight: 1
+            }, {
+                from: 'Shot',
+                to: 'Gabriel Fernando De Jesus',
+                weight: 2
+            }, {
+                from: 'Shot',
+                to: 'Jose Paulo Bezzera Maciel Junior',
+                weight: 2
+            }, {
+                from: 'Shot',
+                to: 'Marcelo Vieira Da Silva Junior',
+                weight: 1
+            }, {
+                from: 'Shot',
+                to: 'Neymar Da Silva Santos Junior',
+                weight: 3
+            }, {
+                from: 'Shot',
+                to: 'Philippe Coutinho Correia',
+                weight: 6
+            }, {
+                from: 'Shot',
+                to: 'Renato  Soares De Oliveira Augusto',
+                weight: 2
+            }, {
+                from: 'Shot',
+                to: 'Roberto Firmino Barbosa De Oliveira',
+                weight: 3
+            }, {
+                from: 'Shot',
+                to: 'Thiago Emiliano Da Silva',
+                weight: 1
+            }, ];
+            //calling the Sankey function
+            var sankey_chart = anychart.sankey(data);
+            //customizing the width of the nodes
+            sankey_chart.nodeWidth("45%");
+            //setting the chart title
+            sankey_chart.title("Sankey diagram of events per player");
+            //customizing the vertical padding of the nodes
+            sankey_chart.nodePadding(25);
+            //setting the container id
+            sankey_chart.container("container");
+            //initiating drawing the Sankey diagram
+            sankey_chart.draw();
+        });
+    </script>
+
+
+</body></html>
